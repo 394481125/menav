@@ -1,220 +1,361 @@
 # 默认页面配置（请勿直接修改）。
 # 建议复制到 config/user/pages/home.yml 并按需调整。
-title: 欢迎使用        # 页面标题
-subtitle: 个人导航站点  # 页面副标题
+title: Paper2x        # 页面标题
+subtitle: 学术科研导航  # 页面副标题
 
-# 指定使用的模板文件名，现有页面模板可见 templates/pages（不含 .hbs）
+# 指定使用的模板文件名
 template: home
 
-# 页面分类与站点列表（可按需增删顺序）
+# 页面分类与站点列表
 categories:
-  - name: 常用网站
-    icon: fas fa-star # 分类图标（Font Awesome）
+  - name: 置顶推荐
+    icon: fas fa-thumbtack
     sites:
-      - name: Linux.do            # 站点名称
-        url: https://linux.do/    # http/https URL（favicon 模式将尝试加载站点图标）
-        icon: fab fa-linux        # 手动图标：manual 模式使用；favicon 模式下作为回退
-        description: 新的理想型社区 # 站点描述
-      - name: Google
-        url: https://www.google.com
+      - name: 谷歌学术
+        url: https://scholar.google.com/
         icon: fab fa-google
-        description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-      - name: YouTube
-        url: https://www.youtube.com
-        icon: fab fa-youtube
-        description: 视频分享平台
-      - name: Twitter
-        url: https://twitter.com
-        icon: fab fa-twitter
-        description: 社交媒体平台
-      - name: Reddit
-        url: https://www.reddit.com
-        icon: fab fa-reddit
-        description: 社区讨论平台
-  - name: 学习资源
-    icon: fas fa-graduation-cap
+        description: 全球学术搜索
+      - name: Sci-Hub
+        url: https://sci-hub.se/
+        icon: fas fa-key
+        description: 免费文献下载
+      - name: arXiv
+        url: https://arxiv.org/
+        icon: fas fa-file-pdf
+        description: 预印本数据库
+      - name: DeepL翻译
+        url: https://www.deepl.com/translator
+        icon: fas fa-language
+        description: 准确的学术翻译
+      - name: Mathpix
+        url: https://mathpix.com/
+        icon: fas fa-square-root-alt
+        description: 公式识别工具
+
+  - name: 中文文献
+    icon: fas fa-book-reader
     sites:
-      - name: 哔哩哔哩
-        url: https://www.bilibili.com
-        icon: fas fa-play-circle
-        description: 视频学习平台
-      - name: 知乎
-        url: https://www.zhihu.com
-        icon: fas fa-question-circle
-        description: 问答社区
-      - name: 掘金
-        url: https://juejin.cn
+      - name: 中国知网
+        url: https://www.cnki.net/
         icon: fas fa-book
-        description: 高质量技术社区
-      - name: LeetCode
-        url: https://leetcode.cn
-        icon: fas fa-code
-        description: 算法刷题平台
-      - name: Coursera
-        url: https://www.coursera.org
+        description: CNKI学术总库
+      - name: 万方数据
+        url: https://www.wanfangdata.com.cn/
+        icon: fas fa-database
+        description: 万方学术平台
+      - name: 维普网
+        url: http://www.cqvip.com/
+        icon: fas fa-file-alt
+        description: 维普中文期刊
+      - name: PubScholar
+        url: https://pubscholar.cn/
         icon: fas fa-university
-        description: 在线课程平台
-      - name: edX
-        url: https://www.edx.org
-        icon: fas fa-graduation-cap
-        description: 高质量在线教育
-      - name: Udemy
-        url: https://www.udemy.com
-        icon: fas fa-chalkboard-teacher
-        description: 技能学习平台
-      - name: MDN Web Docs
-        url: https://developer.mozilla.org
-        icon: fas fa-file-code
-        description: Web开发文档
-  - name: 开发工具
-    icon: fas fa-tools
+        description: 中科院公益学术平台
+      - name: 科学文库
+        url: https://book.sciencereading.cn/
+        icon: fas fa-atlas
+        description: 科学出版社电子书
+      - name: ChinaXiv
+        url: http://www.chinaxiv.org/
+        icon: fas fa-archive
+        description: 科技论文预发布平台
+      - name: 超星期刊
+        url: http://qikan.chaoxing.com/
+        icon: fas fa-newspaper
+        description: 超星学术期刊
+      - name: 读秀学术
+        url: http://www.duxiu.com/
+        icon: fas fa-search-plus
+        description: 知识库搜索
+      - name: NSTL
+        url: https://www.nstl.gov.cn/
+        icon: fas fa-flask
+        description: 国家科技图书文献中心
+      - name: 国家图书馆
+        url: http://www.nlc.cn/
+        icon: fas fa-landmark
+        description: 中国国家图书馆
+      - name: CSSCI
+        url: http://cssci.nju.edu.cn/
+        icon: fas fa-quote-right
+        description: 中文社会科学引文索引
+
+  - name: 英文文献
+    icon: fas fa-globe-americas
     sites:
-      - name: VS Code
-        url: https://code.visualstudio.com
-        icon: fas fa-code
-        description: 强大的代码编辑器
-      - name: Postman
-        url: https://www.postman.com
-        icon: fas fa-paper-plane
-        description: API调试工具
-      - name: Git
-        url: https://git-scm.com
-        icon: fab fa-git-alt
-        description: 版本控制工具
-      - name: Docker
-        url: https://www.docker.com
-        icon: fab fa-docker
-        description: 容器化平台
-      - name: JetBrains
-        url: https://www.jetbrains.com
-        icon: fas fa-laptop-code
-        description: 专业开发IDE
-      - name: npm
-        url: https://www.npmjs.com
-        icon: fab fa-npm
-        description: Node.js包管理器
-      - name: Webpack
-        url: https://webpack.js.org
-        icon: fas fa-box-open
-        description: 前端打包工具
-      - name: GitHub Copilot
-        url: https://github.com/features/copilot
-        icon: fas fa-robot
-        description: AI编程助手
-  - name: 设计资源
-    icon: fas fa-palette
-    sites:
-      - name: Figma
-        url: https://www.figma.com
-        icon: fab fa-figma
-        description: 在线设计工具
-      - name: Dribbble
-        url: https://dribbble.com
-        icon: fab fa-dribbble
-        description: 设计师社区
-      - name: Behance
-        url: https://www.behance.net
-        icon: fab fa-behance
-        description: 创意设计平台
-      - name: IconFont
-        url: https://www.iconfont.cn
-        icon: fas fa-icons
-        description: 图标资源库
-      - name: Unsplash
-        url: https://unsplash.com
-        icon: fas fa-camera
-        description: 免费高质量图片
-      - name: Adobe XD
-        url: https://www.adobe.com/products/xd.html
-        icon: fab fa-adobe
-        description: UI/UX设计工具
-      - name: Sketch
-        url: https://www.sketch.com
-        icon: fas fa-pencil-ruler
-        description: 矢量设计工具
-      - name: Canva
-        url: https://www.canva.com
-        icon: fas fa-paint-brush
-        description: 在线平面设计
-  - name: 在线工具
-    icon: fas fa-wrench
-    sites:
-      - name: JSON Editor
-        url: https://jsoneditoronline.org
-        icon: fas fa-code-branch
-        description: JSON在线编辑器
-      - name: Can I Use
-        url: https://caniuse.com
-        icon: fas fa-browser
-        description: 浏览器兼容性查询
-      - name: TinyPNG
-        url: https://tinypng.com
-        icon: fas fa-compress
-        description: 图片压缩工具
-      - name: Carbon
-        url: https://carbon.now.sh
-        icon: fas fa-code
-        description: 代码图片生成器
-      - name: RegExr
-        url: https://regexr.com
-        icon: fas fa-search
-        description: 正则表达式测试
-      - name: Excalidraw
-        url: https://excalidraw.com
-        icon: fas fa-pencil-alt
-        description: 手绘风格图表工具
-      - name: Notion
-        url: https://www.notion.so
-        icon: fas fa-sticky-note
-        description: 多功能笔记工具
-      - name: Grammarly
-        url: https://www.grammarly.com
-        icon: fas fa-spell-check
-        description: 英文语法检查工具
-  - name: 云服务平台
-    icon: fas fa-cloud
-    sites:
-      - name: AWS
-        url: https://aws.amazon.com
-        icon: fab fa-aws
-        description: 亚马逊云服务
-      - name: Azure
-        url: https://azure.microsoft.com
-        icon: fab fa-microsoft
-        description: 微软云平台
-      - name: Google Cloud
-        url: https://cloud.google.com
-        icon: fab fa-google
-        description: 谷歌云平台
-      - name: Cloudflare
-        url: https://www.cloudflare.com
-        icon: fas fa-cloud
-        description: CDN与安全服务
-      - name: Vercel
-        url: https://vercel.com
-        icon: fas fa-server
-        description: 前端部署平台
-      - name: Netlify
-        url: https://www.netlify.com
+      - name: Web of Science
+        url: https://www.webofscience.com/
         icon: fas fa-globe
-        description: 静态网站托管
-      - name: DigitalOcean
-        url: https://www.digitalocean.com
-        icon: fab fa-digital-ocean
-        description: 简单云服务器
-      - name: Heroku
-        url: https://www.heroku.com
-        icon: fas fa-h-square
-        description: 应用部署平台
+        description: 核心引文索引
+      - name: Nature
+        url: https://www.nature.com/
+        icon: fas fa-leaf
+        description: 顶尖科学周刊
+      - name: Science
+        url: https://www.science.org/
+        icon: fas fa-flask
+        description: 科学促进会期刊
+      - name: Cell
+        url: https://www.cell.com/
+        icon: fas fa-dna
+        description: 生命科学顶刊
+      - name: ScienceDirect
+        url: https://www.sciencedirect.com/
+        icon: fas fa-book-open
+        description: Elsevier全文库
+      - name: Wiley
+        url: https://onlinelibrary.wiley.com/
+        icon: fas fa-book
+        description: 跨学科在线图书馆
+      - name: IEEE Xplore
+        url: https://ieeexplore.ieee.org/
+        icon: fas fa-microchip
+        description: 电子工程文献
+      - name: Springer
+        url: https://link.springer.com/
+        icon: fas fa-horse
+        description: 科技图书与期刊
+      - name: ACS Publications
+        url: https://pubs.acs.org/
+        icon: fas fa-atom
+        description: 美国化学会
+      - name: RSC Publishing
+        url: https://pubs.rsc.org/
+        icon: fas fa-vial
+        description: 英国皇家化学会
+      - name: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov/
+        icon: fas fa-user-md
+        description: 生物医学数据库
+      - name: X-MOL英文
+        url: https://www.x-mol.com/
+        icon: fas fa-search
+        description: 高质量学术平台
+      - name: ProQuest
+        url: https://www.proquest.com/
+        icon: fas fa-graduation-cap
+        description: 学位论文数据库
+
+  - name: 检索工具
+    icon: fas fa-search
+    sites:
+      - name: X-MOL
+        url: https://www.x-mol.com/
+        icon: fas fa-atom
+        description: 化学/生物医药检索
+      - name: 赛特新斯
+        url: https://www.citexs.com/
+        icon: fas fa-dna
+        description: 智能科研辅助
+      - name: 文献鸟 Stork
+        url: https://www.storkapp.me/
+        icon: fas fa-dove
+        description: 文献推送服务
+      - name: Connected Papers
+        url: https://www.connectedpapers.com/
+        icon: fas fa-project-diagram
+        description: 引用关系可视化
+      - name: AMiner
+        url: https://www.aminer.cn/
+        icon: fas fa-brain
+        description: AI学术搜索
+      - name: Scidown
+        url: https://www.scidown.cn/
+        icon: fas fa-download
+        description: 文献下载工具
+      - name: Cool Paper
+        url: https://papers.cool/
+        icon: fas fa-snowflake
+        description: 每日AI论文速递
+      - name: MedReading
+        url: http://www.medreading.cn/
+        icon: fas fa-notes-medical
+        description: 医学文献阅读
+      - name: Ai2 OpenScholar
+        url: https://openscholar.allenai.org/
+        icon: fas fa-robot
+        description: AI驱动的科学搜索
+
+  - name: 专利检索
+    icon: fas fa-certificate
+    sites:
+      - name: 专利公布公告
+        url: http://epub.cnipa.gov.cn/
+        icon: fas fa-flag
+        description: 中国国家知识产权局
+      - name: 佰腾专利网
+        url: https://www.baiten.cn/
+        icon: fas fa-search
+        description: 免费专利检索
+      - name: SooPAT
+        url: http://www.soopat.com/
+        icon: fas fa-search-dollar
+        description: 专利搜索引擎
+      - name: Google Patents
+        url: https://patents.google.com/
+        icon: fab fa-google
+        description: 谷歌专利搜索
+      - name: 专利之星
+        url: https://www.patentstar.cn/
+        icon: fas fa-star
+        description: 专利检索系统
+      - name: 智慧芽
+        url: https://www.patsnap.com/
+        icon: fas fa-lightbulb
+        description: 全球专利数据库
+      - name: USPTO
+        url: https://www.uspto.gov/
+        icon: fas fa-flag-usa
+        description: 美国专利商标局
+
+  - name: 期刊检索
+    icon: fas fa-list-alt
+    sites:
+      - name: LetPub选刊
+        url: https://www.letpub.com.cn/index.php?page=journalapp
+        icon: fas fa-check-circle
+        description: 影响因子查询
+      - name: JustScience
+        url: http://www.justscience.cn/
+        icon: fas fa-flask
+        description: SCI期刊查询
+      - name: 中科院分区表
+        url: http://www.fenqubiao.com/
+        icon: fas fa-table
+        description: 期刊分区数据
+      - name: iJournal
+        url: https://ijournal.topeditsci.com/
+        icon: fas fa-info-circle
+        description: 期刊查询助手
+      - name: 北大核心
+        url: http://www.zzqklm.com/
+        icon: fas fa-university
+        description: 中文核心期刊目录
+      - name: MedSci
+        url: https://www.medsci.cn/sci/
+        icon: fas fa-user-md
+        description: 梅斯医学期刊查询
+
+  - name: 科研社区
+    icon: fas fa-users
+    sites:
+      - name: 科学网
+        url: https://www.sciencenet.cn/
+        icon: fas fa-atom
+        description: 全球华人科学社区
+      - name: ResearchGate
+        url: https://www.researchgate.net/
+        icon: fab fa-researchgate
+        description: 科学家社交网络
+      - name: 小木虫
+        url: http://muchong.com/
+        icon: fas fa-bug
+        description: 学术科研互动社区
+      - name: 丁香园
+        url: https://www.dxy.cn/
+        icon: fas fa-user-md
+        description: 医学专业社区
+      - name: 经管之家
+        url: https://bbs.pinggu.org/
+        icon: fas fa-chart-pie
+        description: 经济管理论坛
+      - name: 生物谷
+        url: https://www.bioon.com/
+        icon: fas fa-seedling
+        description: 生物行业平台
+      - name: 考研论坛
+        url: http://bbs.kaoyan.com/
+        icon: fas fa-graduation-cap
+        description: 研究生考试交流
+
+  - name: 文献管理
+    icon: fas fa-archive
+    sites:
+      - name: Zotero
+        url: https://www.zotero.org/
+        icon: fas fa-file-archive
+        description: 免费开源管理工具
+      - name: Mendeley
+        url: https://www.mendeley.com/
+        icon: fab fa-mendeley
+        description: Elsevier文献管理
+      - name: NoteExpress
+        url: http://www.inoteexpress.com/
+        icon: fas fa-sticky-note
+        description: 国产文献管理软件
+      - name: 知网研学
+        url: https://x.cnki.net/
+        icon: fas fa-book-reader
+        description: 原E-Study
+      - name: Paperlib
+        url: https://paperlib.app/cn
+        icon: fas fa-layer-group
+        description: 简单好用的论文管理
+
+  - name: 论文写作
+    icon: fas fa-pen-nib
+    sites:
+      - name: Grammarly
+        url: https://www.grammarly.com/
+        icon: fas fa-spell-check
+        description: 英文语法检查
+      - name: Paper Digest
+        url: https://www.paper-digest.com/
+        icon: fas fa-robot
+        description: AI生成论文摘要
+      - name: Quillbot
+        url: https://quillbot.com/
+        icon: fas fa-pen-fancy
+        description: AI润色改写工具
+      - name: Overleaf
+        url: https://www.overleaf.com/
+        icon: fas fa-file-code
+        description: 在线LaTeX编辑器
+
+  - name: 论文查重
+    icon: fas fa-clipboard-check
+    sites:
+      - name: 知网查重
+        url: https://cx.cnki.net/
+        icon: fas fa-check-double
+        description: 官方学术不端检测
+      - name: 万方检测
+        url: https://check.wanfangdata.com.cn/
+        icon: fas fa-search
+        description: 万方相似性检测
+      - name: 维普查重
+        url: http://vpcs.cqvip.com/
+        icon: fas fa-search-minus
+        description: 维普论文检测
+      - name: Turnitin
+        url: https://www.turnitin.com/
+        icon: fas fa-file-alt
+        description: 国际通用查重系统
+
+  - name: 数据与院校
+    icon: fas fa-chart-bar
+    sites:
+      - name: 国家数据
+        url: https://data.stats.gov.cn/
+        icon: fas fa-chart-line
+        description: 统计局官方数据
+      - name: CnOpenData
+        url: https://www.cnopendata.com/
+        icon: fas fa-database
+        description: 中国开放数据
+      - name: 软科排名
+        url: https://www.shanghairanking.cn/
+        icon: fas fa-list-ol
+        description: 高校/学科排名
+      - name: 研招网
+        url: https://yz.chsi.com.cn/
+        icon: fas fa-user-graduate
+        description: 官方考研报名
+      - name: 国家社科基金
+        url: http://www.nopss.gov.cn/
+        icon: fas fa-coins
+        description: 社科项目申报
+      - name: 青塔数据
+        url: https://www.cingta.com/
+        icon: fas fa-tower-broadcast
+        description: 高等教育数据服务
