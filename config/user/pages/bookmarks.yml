@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-28T05:01:19.834Z
+# 由bookmark-processor.js生成于 2025-11-28T05:04:07.399Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -332,10 +332,6 @@ categories:
                     url: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
                     icon: fas fa-link
                     description: ""
-                  - name: 微信 Markdown 编辑器 | Doocs 开源社区
-                    url: https://md.doocs.org/
-                    icon: fas fa-link
-                    description: ""
               - name: AI综述
                 icon: fas fa-folder
                 path:
@@ -490,10 +486,6 @@ categories:
                 description: ""
               - name: 期刊表格
                 url: https://docs.qq.com/sheet/DZE9JSXZOVWJXdHFr?tab=34rfig
-                icon: fas fa-link
-                description: ""
-              - name: 科研网页
-                url: https://imaginary-field-6f3.notion.site/15c833ca20e04c51ade63df5af1e1012?v=04406f8c541741098771e68cf07a58bb
                 icon: fas fa-link
                 description: ""
               - name: Qi Wang
@@ -3436,3 +3428,20 @@ categories:
             url: https://www.connectedpapers.com/
             icon: fas fa-link
             description: ""
+      - name: 工作区收藏夹
+        icon: fas fa-folder
+        path:
+          - ""
+          - 工作区收藏夹
+        groups:
+          - name: 公众号
+            icon: fas fa-folder
+            path:
+              - ""
+              - 工作区收藏夹
+              - 公众号
+            sites:
+              - name: Markdown2微信
+                url: https://md.doocs.org/
+                icon: fas fa-link
+                description: ""
