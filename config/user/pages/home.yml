@@ -552,6 +552,18 @@ categories:
         url: https://snip.mathpix.com/
         icon: fas fa-square-root-alt
         description: 公式识别与文档转换神器
+      - name: Snapdrop
+        url: https://snapdrop.net/
+        icon: fas fa-wifi
+        description: 局域网跨设备文件传输(AirDrop平替)
+      - name: Carbon
+        url: https://carbon.now.sh/
+        icon: fas fa-image
+        description: 生成漂亮的代码图片
+      - name: TinEye
+        url: https://tineye.com/
+        icon: fas fa-eye
+        description: 图片反向搜索引擎
 
 
 
@@ -610,6 +622,23 @@ categories:
         url: https://codeimg.io/
         icon: fas fa-image
         description: 代码生成精美图片
+      - name: WolframAlpha
+        url: https://www.wolframalpha.com/
+        icon: fas fa-calculator
+        description: 强大的计算知识引擎
+      - name: Desmos
+        url: https://www.desmos.com/
+        icon: fas fa-chart-line
+        description: 最好的在线图形计算器
+      - name: Excalidraw
+        url: https://excalidraw.com/
+        icon: fas fa-pencil-alt
+        description: 手绘风格的虚拟白板
+      - name: Figma
+        url: https://www.figma.com/
+        icon: fab fa-figma
+        description: 在线界面设计与矢量绘图
+      
 
 
 
@@ -660,6 +689,22 @@ categories:
         url: https://www.w3schools.com/
         icon: fas fa-globe
         description: Web开发在线教程
+      - name: Cursor
+        url: https://www.cursor.com/
+        icon: fas fa-terminal
+        description: 集成AI的下一代代码编辑器
+      - name: Bolt.new
+        url: https://bolt.new/
+        icon: fas fa-bolt
+        description: 浏览器中的全栈AI开发环境
+      - name: v0.dev
+        url: https://v0.dev/
+        icon: fas fa-code-branch
+        description: Vercel出品的AI生成UI界面
+      - name: Replit
+        url: https://replit.com/
+        icon: fas fa-laptop-code
+        description: 在线协作式IDE
 
 
   - name: 数据集与库
@@ -851,3 +896,131 @@ categories:
         url: https://www.photopea.com/
         icon: fas fa-image
         description: 功能强大的网页版PS替代品
+
+- name: 知识管理
+    icon: fas fa-brain
+    sites:
+      - name: Heptabase
+        url: https://heptabase.com/
+        icon: fas fa-project-diagram
+        description: 可视化卡片笔记，科研整理神器
+      - name: Obsidian
+        url: https://obsidian.md/
+        icon: fas fa-gem
+        description: 强大的本地Markdown知识库
+      - name: Notion
+        url: https://www.notion.so/
+        icon: fas fa-book
+        description: All-in-one 生产力协作平台
+      - name: Flomo
+        url: https://flomoapp.com/
+        icon: fas fa-sticky-note
+        description: 浮墨笔记，捕捉瞬时灵感
+      - name: Logseq
+        url: https://logseq.com/
+        icon: fas fa-dot-circle
+        description: 双向链接的大纲笔记工具
+      - name: Wolai
+        url: https://www.wolai.com/
+        icon: fas fa-link
+        description: 中文版类Notion协作平台
+      - name: Zotero
+        url: https://www.zotero.org/
+        icon: fas fa-file-archive
+        description: 免费且强大的文献管理
+
+  - name: 在线学习
+    icon: fas fa-graduation-cap
+    sites:
+      - name: Coursera
+        url: https://www.coursera.org/
+        icon: fas fa-copyright
+        description: 全球顶尖大学在线课程
+      - name: edX
+        url: https://www.edx.org/
+        icon: fas fa-university
+        description: 哈佛MIT创办的开源课程
+      - name: DeepLearning.AI
+        url: https://www.deeplearning.ai/
+        icon: fas fa-robot
+        description: 吴恩达深度学习专业课程
+      - name: Khan Academy
+        url: https://www.khanacademy.org/
+        icon: fas fa-leaf
+        description: 可汗学院免费教育资源
+      - name: TED
+        url: https://www.ted.com/
+        icon: fas fa-microphone
+        description: 传播有价值的思想演讲
+      - name: MIT OpenCourseWare
+        url: https://ocw.mit.edu/
+        icon: fas fa-school
+        description: 麻省理工学院公开课
+      - name: 阿里云大学
+        url: https://edu.aliyun.com/
+        icon: fab fa-aliyun
+        description: 云计算与大数据技术培训
+
+- name: AI 创意与效率
+    icon: fas fa-magic
+    sites:
+      - name: Perplexity
+        url: https://www.perplexity.ai/
+        icon: fas fa-search
+        description: 结合了搜索引擎的AI对话（强推）
+      - name: Gamma
+        url: https://gamma.app/
+        icon: fas fa-presentation
+        description: AI一键生成精美PPT演示文稿
+      - name: Clipdrop
+        url: https://clipdrop.co/
+        icon: fas fa-eraser
+        description: Stability AI出品的图像处理箱
+      - name: Cleanup.pictures
+        url: https://cleanup.pictures/
+        icon: fas fa-magic
+        description: 免费在线消除图片中的多余物体
+      - name: Felo
+        url: https://felo.ai/
+        icon: fas fa-globe-asia
+        description: 擅长跨语言搜索的AI助手
+      - name: Suno
+        url: https://suno.com/
+        icon: fas fa-music
+        description: 强大的AI音乐生成工具
+      - name: LiblibAI
+        url: https://www.liblib.art/
+        icon: fas fa-paint-brush
+        description: 国内顶尖的AI绘画模型社区
+      - name: Tldraw
+        url: https://www.tldraw.com/
+        icon: fas fa-pen
+        description: 能够把草图变成代码的白板
+
+  - name: 开发者神器
+    icon: fas fa-toolbox
+    sites:
+      - name: Regex101
+        url: https://regex101.com/
+        icon: fas fa-code
+        description: 最好用的正则表达式调试工具
+      - name: JSON Crack
+        url: https://jsoncrack.com/
+        icon: fas fa-sitemap
+        description: 将JSON数据可视化为思维导图
+      - name: CyberChef
+        url: https://gchq.github.io/CyberChef/
+        icon: fas fa-bread-slice
+        description: 网络瑞士军刀(加密/编码转换)
+      - name: Carbon
+        url: https://carbon.now.sh/
+        icon: fas fa-image
+        description: 生成漂亮的代码分享图片
+      - name: Shields.io
+        url: https://shields.io/
+        icon: fas fa-shield-alt
+        description: GitHub项目徽章生成
+      - name: Crontab.guru
+        url: https://crontab.guru/
+        icon: fas fa-clock
+        description: Linux Cron表达式生成与解释
