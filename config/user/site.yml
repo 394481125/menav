@@ -47,6 +47,9 @@ social:
   - name: GithubTrendRadar
     url: https://githubtrend.qq394481125.workers.dev/
     icon: fab fa-github
+  - name: WeMark
+    url: https://wemark.qq394481125.workers.dev/
+    icon: fab fa-github
 
 
 # 导航配置
