@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-28T05:05:57.745Z
+# 由bookmark-processor.js生成于 2025-11-28T05:07:06.429Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -330,6 +330,10 @@ categories:
                     description: ""
                   - name: SMDG, A Standardized Fundus Glaucoma Dataset
                     url: https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
+                    icon: fas fa-link
+                    description: ""
+                  - name: 【超详细】VSCode连接GitHub全攻略：上传/克隆代码一步到位-CSDN博客
+                    url: https://blog.csdn.net/emem_0724/article/details/148242376
                     icon: fas fa-link
                     description: ""
               - name: AI综述
@@ -1946,10 +1950,6 @@ categories:
         sites:
           - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
             url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
-            icon: fas fa-link
-            description: ""
-          - name: 用DeepSeek-R1打造完美自动化工作流_哔哩哔哩_bilibili
-            url: https://www.bilibili.com/video/BV1RqfDYdEst/?vd_source=4c6e05f9f2d500c60147bb4331703f2a
             icon: fas fa-link
             description: ""
           - name: Prompt Library | DeepSeek API Docs
