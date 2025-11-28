@@ -30,6 +30,18 @@ fonts:
     weight: 400
     source: google
 
+# 社交媒体链接：显示在侧边栏底部；可按需增删
+social:
+  - name: libretv
+    url: https://libretv-dwb.pages.dev/
+    icon: fab fa-libretv
+  - name: naturesearch
+    url: https://naturesearch.qq394481125.workers.dev/
+    icon: fab fa-naturesearch
+  - name: libretv
+    url: https://dblp.qq394481125.workers.dev/
+    icon: fab fa-dblp
+
 
 # 导航配置
 navigation:
