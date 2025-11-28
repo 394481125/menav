@@ -175,6 +175,34 @@ categories:
         url: https://openscholar.allenai.org/
         icon: fas fa-robot
         description: AI驱动的科学搜索
+      - name: 科研者之家
+        url: https://www.home-for-researchers.com/
+        icon: fas fa-home
+        description: 科研人员的网上家园
+      - name: PaperCopilot
+        url: https://papercopilot.com/
+        icon: fas fa-robot
+        description: 顶会论文搜索助手
+      - name: OpenReview
+        url: https://openreview.net/
+        icon: fas fa-book-open
+        description: 开放同行评审平台
+      - name: PaperswithCode
+        url: https://paperswithcode.com/
+        icon: fas fa-code
+        description: 论文与其实现代码
+      - name: dblp
+        url: https://dblp.org/
+        icon: fas fa-list
+        description: 计算机科学文献集成库
+      - name: SimilarSites
+        url: https://similarsites.com/
+        icon: fas fa-clone
+        description: 发现相似网站
+      - name: 行行查
+        url: https://www.hanghangcha.com/
+        icon: fas fa-chart-pie
+        description: 行业研究数据库
 
   - name: 专利检索
     icon: fas fa-certificate
@@ -311,6 +339,18 @@ categories:
         url: https://www.overleaf.com/
         icon: fas fa-file-code
         description: 在线LaTeX编辑器
+      - name: CiteThisForMe
+        url: https://www.citethisforme.com/
+        icon: fas fa-quote-left
+        description: 引用与参考文献生成
+      - name: Phrasebank
+        url: https://www.phrasebank.manchester.ac.uk/
+        icon: fas fa-book
+        description: 曼彻斯特学术英语写作库
+      - name: MyBib
+        url: https://www.mybib.com/
+        icon: fas fa-quote-right
+        description: 免费参考文献生成器
 
   - name: 论文查重
     icon: fas fa-clipboard-check
@@ -331,31 +371,337 @@ categories:
         url: https://www.turnitin.com/
         icon: fas fa-file-alt
         description: 国际通用查重系统
+      - name: PaperPass
+        url: https://www.paperpass.com/
+        icon: fas fa-check
+        description: 在线论文查重
 
-  - name: 数据与院校
-    icon: fas fa-chart-bar
+
+  - name: 院校与排名
+    icon: fas fa-university
     sites:
-      - name: 国家数据
-        url: https://data.stats.gov.cn/
+      - name: 研招网院校库
+        url: https://yz.chsi.com.cn/sch/
+        icon: fas fa-school
+        description: 教育部官方院校查询
+      - name: 专业知识库
+        url: https://yz.chsi.com.cn/zyk/
+        icon: fas fa-book-open
+        description: 考研专业详细介绍
+      - name: 青塔数据
+        url: https://www.cingta.com/opendata/list
         icon: fas fa-chart-line
-        description: 统计局官方数据
-      - name: CnOpenData
-        url: https://www.cnopendata.com/
-        icon: fas fa-database
-        description: 中国开放数据
+        description: 全面的高等教育数据
       - name: 软科排名
         url: https://www.shanghairanking.cn/
         icon: fas fa-list-ol
-        description: 高校/学科排名
-      - name: 研招网
-        url: https://yz.chsi.com.cn/
-        icon: fas fa-user-graduate
-        description: 官方考研报名
+        description: 中国最好大学排名
+      - name: 中国大学排名
+        url: https://www.cnur.com/
+        icon: fas fa-medal
+        description: CNUR大学评级与排名
+      - name: 世界大学排名
+        url: https://www.ukpass.org/ranking/index-1-0-0.html
+        icon: fas fa-globe
+        description: QS/泰晤士等世界排名
+
+
+  - name: 基金与项目
+    icon: fas fa-coins
+    sites:
       - name: 国家社科基金
-        url: http://www.nopss.gov.cn/
-        icon: fas fa-coins
-        description: 社科项目申报
-      - name: 青塔数据
-        url: https://www.cingta.com/
-        icon: fas fa-tower-broadcast
-        description: 高等教育数据服务
+        url: https://fz.people.com.cn/skygb/sk/index.php/index
+        icon: fas fa-landmark
+        description: 社科基金项目数据库
+      - name: 国家自然科学基金
+        url: https://www.nsfc.gov.cn/
+        icon: fas fa-flask
+        description: NSFC官方网站
+      - name: 国科基金大数据
+        url: https://kd.nsfc.cn/
+        icon: fas fa-project-diagram
+        description: 科学基金共享服务网
+      - name: NIH RePORTER
+        url: https://reporter.nih.gov/
+        icon: fas fa-notes-medical
+        description: 美国国立卫生研究院
+      - name: 欧盟地平线计划
+        url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
+        icon: fas fa-euro-sign
+        description: 欧盟科研资助项目
+
+
+  - name: AI 科研辅助
+    icon: fas fa-robot
+    sites:
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-comment-dots
+        description: 强大的AI对话助手
+      - name: Claude
+        url: https://claude.ai/
+        icon: fas fa-brain
+        description: 长文本分析能力出色
+      - name: ChatPDF
+        url: https://www.chatpdf.com/
+        icon: fas fa-file-pdf
+        description: 与PDF文档对话
+      - name: SciSpace
+        url: https://typeset.io/
+        icon: fas fa-rocket
+        description: 解读论文的AI助手
+      - name: Monica
+        url: https://monica.im/
+        icon: fas fa-magic
+        description: 浏览器AI侧边栏插件
+      - name: Kimi智能助手
+        url: https://kimi.moonshot.cn/
+        icon: fas fa-moon
+        description: 支持超长上下文输入
+      - name: 通义千问
+        url: https://tongyi.aliyun.com/
+        icon: fas fa-comments
+        description: 阿里推出的AI大模型
+      - name: 豆包
+        url: https://www.doubao.com/
+        icon: fas fa-cookie-bite
+        description: 字节跳动智能助手
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fas fa-brain
+        description: 深度求索通用大模型
+      - name: Consensus
+        url: https://consensus.app/search/
+        icon: fas fa-search
+        description: AI驱动的科研共识搜索
+      - name: OmniThink
+        url: https://github.com/zjunlp/OmniThink
+        icon: fas fa-lightbulb
+        description: 浙大AI综述生成工具
+      - name: Dify
+        url: https://dify.ai/zh
+        icon: fas fa-cogs
+        description: 生成式AI应用开发平台
+      - name: AI Prompt
+        url: https://www.aipromptgenerator.net/zh
+        icon: fas fa-terminal
+        description: AI提示词生成器
+
+
+  - name: 格式转换与处理
+    icon: fas fa-tools
+    sites:
+      - name: SmallPDF
+        url: https://smallpdf.com/cn
+        icon: fas fa-file-pdf
+        description: 全能PDF在线工具
+      - name: Convertio
+        url: https://convertio.co/zh/
+        icon: fas fa-sync-alt
+        description: 支持300+种格式转换
+      - name: I Love PDF
+        url: https://www.ilovepdf.com/zh-cn
+        icon: fas fa-heart
+        description: 免费PDF处理工具
+      - name: Remove.bg
+        url: https://www.remove.bg/zh
+        icon: fas fa-eraser
+        description: 图片一键自动抠图
+      - name: TinyPNG
+        url: https://tinypng.com/
+        icon: fas fa-compress-arrows-alt
+        description: 智能Web图片压缩
+      - name: MinerU
+        url: https://github.com/opendatalab/MinerU
+        icon: fas fa-file-invoice
+        description: 高质量PDF文档智能提取
+      - name: Doc2X
+        url: https://doc2x.noedgeai.com/
+        icon: fas fa-file-word
+        description: 专业文档解析与格式转换
+      - name: ZeroX
+        url: https://github.com/getomni-ai/zerox
+        icon: fas fa-file-code
+        description: PDF转Markdown工具
+      - name: PDF24
+        url: https://tools.pdf24.org/zh/
+        icon: fas fa-toolbox
+        description: 免费且无限制的PDF工具箱
+      - name: Mathpix Snip
+        url: https://snip.mathpix.com/
+        icon: fas fa-square-root-alt
+        description: 公式识别与文档转换神器
+
+
+  - name: 效率与绘图
+    icon: fas fa-pencil-ruler
+    sites:
+      - name: ProcessOn
+        url: https://www.processon.com/
+        icon: fas fa-project-diagram
+        description: 在线流程图思维导图
+      - name: Draw.io
+        url: https://app.diagrams.net/
+        icon: fas fa-shapes
+        description: 免费开源绘图工具
+      - name: XMind
+        url: https://xmind.app/
+        icon: fas fa-sitemap
+        description: 全功能的思维导图
+      - name: BioRender
+        url: https://biorender.com/
+        icon: fas fa-dna
+        description: 绘制生物医学专业插图
+      - name: GraphPad Prism
+        url: https://www.graphpad.com/scientific-software/prism/
+        icon: fas fa-chart-area
+        description: 科研绘图统计软件\
+      - name: Canva
+        url: https://www.canva.cn/
+        icon: fas fa-palette
+        description: 简单易用的设计工具
+      - name: Piktochart
+        url: https://piktochart.com/
+        icon: fas fa-chart-pie
+        description: 信息图与演示文稿制作
+      - name: Hiplot
+        url: https://hiplot.com.cn/
+        icon: fas fa-chart-bar
+        description: 简单好用的科研绘图
+      - name: 派森诺基因云
+        url: https://www.genescloud.cn/chart/ChartOverview
+        icon: fas fa-dna
+        description: 生信分析云平台
+      - name: TablesGenerator
+        url: https://www.tablesgenerator.com/
+        icon: fas fa-table
+        description: 在线LaTeX表格生成器
+      - name: TableConvert
+        url: https://tableconvert.com/zh-cn/latex-generator
+        icon: fas fa-sync-alt
+        description: 多格式表格转换工具
+      - name: LaTeX Tables
+        url: https://www.latex-tables.com/
+        icon: fas fa-list-alt
+        description: 简易LaTeX表格编辑器
+      - name: Codeimg
+        url: https://codeimg.io/
+        icon: fas fa-image
+        description: 代码生成精美图片
+
+
+  - name: 编程与代码
+    icon: fas fa-code
+    sites:
+      - name: GitHub
+        url: https://github.com/
+        icon: fab fa-github
+        description: 全球最大的代码托管
+      - name: CSDN
+        url: https://www.csdn.net/
+        icon: fas fa-laptop-code
+        description: 中文开发者技术社区
+      - name: Stack Overflow
+        url: https://stackoverflow.com/
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+      - name: 菜鸟教程
+        url: https://www.runoob.com/
+        icon: fas fa-book-open
+        description: 基础编程技术教程
+      - name: PyPI
+        url: https://pypi.org/
+        icon: fab fa-python
+        description: Python包索引库
+
+- name: 数据集与库
+    icon: fas fa-database
+    sites:
+      - name: 遇见数据集
+        url: https://www.selectdataset.com/
+        icon: fas fa-search
+        description: 专业的AI数据集搜索引擎
+      - name: 魔塔社区
+        url: https://www.modelscope.cn
+        icon: fas fa-layer-group
+        description: 阿里ModelScope模型与数据
+      - name: OpenDataLab
+        url: https://opendatalab.com
+        icon: fas fa-cube
+        description: 超大规模开放数据实验室
+      - name: Kaggle
+        url: https://www.kaggle.com/
+        icon: fab fa-kaggle
+        description: 权威数据科学竞赛与数据集
+      - name: HuggingFace
+        url: https://huggingface.co/
+        icon: fas fa-grin-stars
+        description: 全球最大的AI模型与数据社区
+      - name: Google Dataset
+        url: https://datasetsearch.research.google.com
+        icon: fab fa-google
+        description: 谷歌数据集搜索
+      - name: Zenodo
+        url: https://zenodo.org/
+        icon: fas fa-share-alt
+        description: 开放科学数据存储库
+      - name: HyperAI超神经
+        url: https://hyper.ai/cn/datasets
+        icon: fas fa-brain
+        description: 优质公开数据集下载
+
+  - name: 学术模板与素材
+    icon: fas fa-file-alt
+    sites:
+      - name: LatexStudio
+        url: https://www.latexstudio.net/
+        icon: fas fa-code
+        description: LaTeX模板与教程大全
+      - name: IEEE Template
+        url: https://template-selector.ieee.org/
+        icon: fas fa-file-contract
+        description: IEEE官方论文模板
+      - name: 51PPT模板
+        url: https://www.51pptmoban.com/ppt/
+        icon: fas fa-file-powerpoint
+        description: 免费PPT模板下载
+      - name: 优品PPT
+        url: https://www.ypppt.com/
+        icon: fas fa-presentation
+        description: 高质量PPT模板素材
+      - name: 微软OfficePlus
+        url: https://www.officeplus.cn/PPT/template/
+        icon: fab fa-microsoft
+        description: 微软官方PPT模板
+
+  - name: 学术前沿与框架
+    icon: fas fa-project-diagram
+    sites:
+      - name: 上海AI实验室
+        url: https://www.shlab.org.cn/
+        icon: fas fa-flask
+        description: 人工智能国家实验室
+      - name: Optuna
+        url: https://optuna.org/
+        icon: fas fa-sliders-h
+        description: 自动化超参数优化框架
+      - name: MONAI
+        url: https://monai.io/
+        icon: fas fa-heartbeat
+        description: 医疗影像深度学习框架
+      - name: Pytorch Lightning
+        url: https://lightning.ai/docs/pytorch/stable/
+        icon: fas fa-bolt
+        description: 轻量级PyTorch封装框架
+      - name: BasicSR
+        url: https://github.com/XPixelGroup/BasicSR
+        icon: fas fa-image
+        description: 开源图像超分辨率工具箱
+      - name: 和鲸社区
+        url: https://www.heywhale.com/home/project
+        icon: fas fa-fish
+        description: 数据科学协作平台
+      - name: 3D Slicer
+        url: https://www.slicer.org/
+        icon: fas fa-cubes
+        description: 免费开源医学图像分析软件
