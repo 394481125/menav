@@ -351,6 +351,23 @@ categories:
         url: https://www.mybib.com/
         icon: fas fa-quote-right
         description: 免费参考文献生成器
+      - name: TexPage
+        url: https://www.texpage.com/zh/
+        icon: fas fa-file-code
+        description: 跨平台在线LaTeX协作编辑器
+      - name: Slager
+        url: https://www.slager.cn/
+        icon: fas fa-pen-square
+        description: 符合国人习惯的在线LaTeX
+      - name: Typst
+        url: https://typst.app/
+        icon: fas fa-shapes
+        description: 新一代科学写作排版工具
+      - name: Authorea
+        url: https://www.authorea.com/
+        icon: fas fa-edit
+        description: 现代化的学术协作写作平台
+
 
   - name: 论文查重
     icon: fas fa-clipboard-check
@@ -375,6 +392,7 @@ categories:
         url: https://www.paperpass.com/
         icon: fas fa-check
         description: 在线论文查重
+
 
 
   - name: 院校与排名
@@ -406,6 +424,7 @@ categories:
         description: QS/泰晤士等世界排名
 
 
+
   - name: 基金与项目
     icon: fas fa-coins
     sites:
@@ -429,6 +448,7 @@ categories:
         url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
         icon: fas fa-euro-sign
         description: 欧盟科研资助项目
+
 
 
   - name: AI 科研辅助
@@ -488,6 +508,7 @@ categories:
         description: AI提示词生成器
 
 
+
   - name: 格式转换与处理
     icon: fas fa-tools
     sites:
@@ -531,6 +552,7 @@ categories:
         url: https://snip.mathpix.com/
         icon: fas fa-square-root-alt
         description: 公式识别与文档转换神器
+
 
 
   - name: 效率与绘图
@@ -590,6 +612,7 @@ categories:
         description: 代码生成精美图片
 
 
+
   - name: 编程与代码
     icon: fas fa-code
     sites:
@@ -613,6 +636,31 @@ categories:
         url: https://pypi.org/
         icon: fab fa-python
         description: Python包索引库
+      - name: npm
+        url: https://www.npmjs.com/
+        icon: fab fa-npm
+        description: Node.js包管理器
+      - name: StackBlitz
+        url: https://stackblitz.com/
+        icon: fas fa-laptop-code
+        description: 在线IDE与代码编辑器
+      - name: GitLab
+        url: https://gitlab.com/
+        icon: fab fa-gitlab
+        description: DevOps代码托管平台
+      - name: LeetCode
+        url: https://leetcode.com/
+        icon: fas fa-code
+        description: 编程题库与刷题平台
+      - name: GeeksforGeeks
+        url: https://www.geeksforgeeks.org/
+        icon: fas fa-brain
+        description: 计算机科学资源网站
+      - name: W3Schools
+        url: https://www.w3schools.com/
+        icon: fas fa-globe
+        description: Web开发在线教程
+
 
   - name: 数据集与库
     icon: fas fa-database
@@ -649,6 +697,7 @@ categories:
         url: https://hyper.ai/cn/datasets
         icon: fas fa-brain
         description: 优质公开数据集下载
+        
 
   - name: 学术模板与素材
     icon: fas fa-file-alt
@@ -673,6 +722,7 @@ categories:
         url: https://www.officeplus.cn/PPT/template/
         icon: fab fa-microsoft
         description: 微软官方PPT模板
+
 
   - name: 学术前沿与框架
     icon: fas fa-project-diagram
@@ -705,3 +755,99 @@ categories:
         url: https://www.slicer.org/
         icon: fas fa-cubes
         description: 免费开源医学图像分析软件
+
+- name: 云服务与部署
+    icon: fas fa-cloud
+    sites:
+      - name: Cloudflare
+        url: https://www.cloudflare.com/zh-cn/
+        icon: fab fa-cloudflare
+        description: 全球CDN、DNS与网络安全
+      - name: Vercel
+        url: https://vercel.com/
+        icon: fas fa-paper-plane
+        description: 前端极速部署与边缘计算
+      - name: Netlify
+        url: https://www.netlify.com/
+        icon: fas fa-gem
+        description: 静态网站托管与Serverless
+      - name: 阿里云
+        url: https://www.aliyun.com/
+        icon: fas fa-server
+        description: 中国领先的云计算平台
+      - name: 腾讯云
+        url: https://cloud.tencent.com/
+        icon: fas fa-cloud-sun
+        description: 腾讯云计算与人工智能
+      - name: AWS
+        url: https://aws.amazon.com/cn/
+        icon: fab fa-aws
+        description: 亚马逊云计算服务
+      - name: GitHub Pages
+        url: https://pages.github.com/
+        icon: fab fa-github-alt
+        description: 免费的静态网页托管
+
+  - name: 实用工具
+    icon: fas fa-toolbox
+    sites:
+      - name: 在线正则表达式测试
+        url: https://regex101.com/
+        icon: fas fa-search
+        description: 强大的正则表达式测试工具
+      - name: JSON Formatter & Validator
+        url: https://jsonformatter.curiousconcept.com/
+        icon: fas fa-code
+        description: JSON格式化与验证工具
+      - name: 在线Markdown编辑器
+        url: https://stackedit.io/app#
+        icon: fas fa-markdown
+        description: 功能丰富的Markdown编辑器
+      - name: Diffchecker
+        url: https://www.diffchecker.com/
+        icon: fas fa-columns
+        description: 文本与文件对比工具
+      - name: 在线二维码生成器
+        url: https://www.qr-code-generator.com/
+        icon: fas fa-qrcode
+        description: 快速生成自定义二维码
+      - name: URL Encoder/Decoder
+        url: https://www.url-encode-decode.com/
+        icon: fas fa-link
+        description: URL编码与解码工具
+      - name: 在线时间转换器
+        url: https://www.epochconverter.com/
+        icon: fas fa-clock
+        description: 时间戳与日期转换工具 
+      - name: Lorem Ipsum生成器
+        url: https://www.lipsum.com/
+        icon: fas fa-paragraph
+        description: 生成占位文本内容 
+      - name: ColorHexa
+        url: https://www.colorhexa.com/
+        icon: fas fa-palette
+        description: 颜色代码与调色板生成器
+      - name: 在线文件压缩
+        url: https://www.files2zip.com/zh/
+        icon: fas fa-file-archive
+        description: 多格式文件压缩与解压
+      - name: PDF Candy
+        url: https://pdfcandy.com/zh/
+        icon: fas fa-file-pdf
+        description: 多功能在线PDF工具集
+      - name: 在线思维导图工具
+        url: https://www.mindmup.com/
+        icon: fas fa-brain
+        description: 免费易用的思维导图制作
+      - name: 在线代码美化工具
+        url: https://codebeautify.org/
+        icon: fas fa-magic
+        description: 各类代码格式化与美化
+      - name: 在线正文字数统计
+        url: https://wordcounter.net/
+        icon: fas fa-calculator
+        description: 实时统计文字与字符数量
+      - name: 在线图片编辑器
+        url: https://www.photopea.com/
+        icon: fas fa-image
+        description: 功能强大的网页版PS替代品
