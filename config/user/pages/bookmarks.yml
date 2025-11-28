@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-28T05:10:27.856Z
+# 由bookmark-processor.js生成于 2025-11-28T05:21:31.873Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1730,14 +1730,6 @@ categories:
                     url: https://chatgpt.com/
                     icon: fas fa-link
                     description: ""
-                  - name: 论文赏析|CVPR 2024 | 利用因果学习构建无偏目标检测器，提高泛化性能 - 知乎
-                    url: https://zhuanlan.zhihu.com/p/7393339198?utm_campaign=shareopn&amp;utm_medium=social&amp;utm_psn=1896973435445417605&amp;utm_source=wechat_session
-                    icon: fas fa-link
-                    description: ""
-                  - name: Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection
-                    url: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.pdf
-                    icon: fas fa-link
-                    description: ""
                   - name: AAAI 2025｜复旦大学构建因果干预模块，实现语言序列的去偏多模态理解 - 知乎
                     url: https://zhuanlan.zhihu.com/p/15935796095
                     icon: fas fa-link
@@ -2489,10 +2481,6 @@ categories:
                 url: https://www.sciencedirect.com/science/article/pii/S0010482522010617
                 icon: fas fa-link
                 description: ""
-              - name: 域自适应图像分割(domain adaptation)-CSDN博客
-                url: https://blog.csdn.net/qq_39191000/article/details/105828679
-                icon: fas fa-link
-                description: ""
               - name: 【论文笔记】SPGAN-DA：用于领域自适应遥感图像语义分割的语义保留生成对抗网络 - 茴香豆的茴 - 博客园
                 url: https://www.cnblogs.com/xing9/p/SPGAN-DA.html
                 icon: fas fa-link
@@ -2788,14 +2776,6 @@ categories:
                 url: https://www.notion.so/GPT-66183f5a2a9b48ffb374313733d886d5
                 icon: fas fa-link
                 description: ""
-              - name: DGPANet.pdf
-                url: file:///C:/Users/%E7%94%A8%E6%88%B7/Desktop/%E6%A1%8C%E9%9D%A2/%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%88%86%E5%89%B2/%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95/DGPANet.pdf
-                icon: fas fa-link
-                description: ""
-              - name: 腾讯文档 - 【论文】FSSS
-                url: https://docs.qq.com/desktop/mydoc/folder/dPgVwSXNdUCz
-                icon: fas fa-link
-                description: ""
               - name: 模型ppt
                 url: https://docs.qq.com/slide/DZGhRVnVpbWpwS1pL
                 icon: fas fa-link
@@ -2971,24 +2951,8 @@ categories:
                 url: https://www.notion.so/GPT-66183f5a2a9b48ffb374313733d886d5
                 icon: fas fa-link
                 description: ""
-              - name: DGPANet.pdf
-                url: file:///C:/Users/%E7%94%A8%E6%88%B7/Desktop/%E6%A1%8C%E9%9D%A2/%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%88%86%E5%89%B2/%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95/DGPANet.pdf
-                icon: fas fa-link
-                description: ""
-              - name: 腾讯文档 - 【论文】FSSS
-                url: https://docs.qq.com/desktop/mydoc/folder/dPgVwSXNdUCz
-                icon: fas fa-link
-                description: ""
               - name: 基于小样本数据和特征学习的临床辅助诊断分类研究 - 中国知网
                 url: https://kns.cnki.net/kcms2/article/abstract?v=2iaLu-A-XVnuMmx_RNfz2haU0brvgb9j0pCO0KH0cCQy7Y1dPzQiUnwopDdNexigKed1pvVM7S2vlhx-VM4z2DsA0lu6lA9rgKWxpCXuXZyTwueRZzIR6CJ0wvkVFGQFZ_HsZzDyWlUBVQAMoxSTKy4mTL5HO97t_pU53yk26nQqBJRvlSjnoWfz5zaFe2W9&amp;uniplatform=NZKPT&amp;language=CHS
-                icon: fas fa-link
-                description: ""
-              - name: CNKI Overseas
-                url: https://www.cnki.net/index/
-                icon: fas fa-link
-                description: ""
-              - name: CNKI Overseas
-                url: https://www.cnki.net/index/
                 icon: fas fa-link
                 description: ""
               - name: CNKI Overseas
