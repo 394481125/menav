@@ -32,15 +32,19 @@ fonts:
 
 # 社交媒体链接：显示在侧边栏底部；可按需增删
 social:
-  - name: libretv
+  - name: Libretv
     url: https://libretv-dwb.pages.dev/
     icon: fab fa-github
-  - name: naturesearch
+  - name: Naturesearch
     url: https://naturesearch.qq394481125.workers.dev/
     icon: fab fa-github
-  - name: dblp
+  - name: Dblp
     url: https://dblp.qq394481125.workers.dev/
     icon: fab fa-github
+  - name: TrendRadar
+    url: https://394481125.github.io/TrendRadar/
+    icon: fab fa-github
+
 
 
 # 导航配置
