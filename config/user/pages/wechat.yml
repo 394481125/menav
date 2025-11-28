@@ -19,18 +19,10 @@ categories:
         icon: fab fa-markdown
         description: 开源、简洁的微信 Markdown 编辑器
         url: https://md.doocs.org/
-      - name: mdnice
-        icon: fas fa-pen-nib
-        description: 支持自定义主题的 Markdown 排版工具
-        url: https://www.mdnice.com/
       - name: 壹伴助手
         icon: fas fa-puzzle-piece
         description: 强大的公众号运营浏览器插件
         url: https://yiban.io/
-      - name: 秀米编辑器
-        icon: fas fa-layer-group
-        description: 专业的图文排版工具，布局丰富
-        url: https://xiumi.us/
 
   - name: 数据与素材
     icon: fas fa-chart-line # 图表图标
@@ -39,10 +31,6 @@ categories:
         icon: fas fa-chart-bar
         description: 新媒体数据监测与排行榜
         url: https://www.newrank.cn/
-      - name: 西瓜数据
-        icon: fas fa-chart-pie
-        description: 公众号诊断与数据分析平台
-        url: http://data.xiguaji.com/
       - name: 稿定设计
         icon: fas fa-palette
         description: 快速制作公众号封面与配图
