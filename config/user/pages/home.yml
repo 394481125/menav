@@ -801,7 +801,7 @@ categories:
         icon: fas fa-cubes
         description: 免费开源医学图像分析软件
 
-- name: 云服务与部署
+  - name: 云服务与部署
     icon: fas fa-cloud
     sites:
       - name: Cloudflare
@@ -897,7 +897,7 @@ categories:
         icon: fas fa-image
         description: 功能强大的网页版PS替代品
 
-- name: 知识管理
+  - name: 知识管理
     icon: fas fa-brain
     sites:
       - name: Heptabase
@@ -961,7 +961,7 @@ categories:
         icon: fab fa-aliyun
         description: 云计算与大数据技术培训
 
-- name: AI 创意与效率
+  - name: AI 创意与效率
     icon: fas fa-magic
     sites:
       - name: Perplexity
