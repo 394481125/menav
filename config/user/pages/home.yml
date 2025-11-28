@@ -1024,3 +1024,39 @@ categories:
         url: https://crontab.guru/
         icon: fas fa-clock
         description: Linux Cron表达式生成与解释
+
+- name: 写作排版与Markdown
+    icon: fab fa-markdown
+    sites:
+      - name: Doocs Markdown
+        url: https://md.doocs.org/
+        icon: fab fa-markdown
+        description: 开源的微信Markdown排版工具
+      - name: Markdown Nice
+        url: https://www.mdnice.com/
+        icon: fas fa-magic
+        description: 支持多主题的排版神器
+      - name: OpenWrite
+        url: https://openwrite.cn/
+        icon: fas fa-pen-nib
+        description: 一键分发到各大平台的写作工具
+      - name: 微信格式化
+        url: https://lab.lyric.im/wxformat
+        icon: fab fa-weixin
+        description: 经典的Markdown转公众号工具
+      - name: StackEdit
+        url: https://stackedit.io/
+        icon: fas fa-edit
+        description: 极其强大的在线Markdown编辑器
+      - name: HackMD
+        url: https://hackmd.io/
+        icon: fas fa-users
+        description: 最好用的Markdown实时协作笔记
+      - name: Marp
+        url: https://web.marp.app/
+        icon: fas fa-desktop
+        description: 用Markdown写PPT演示文稿
+      - name: Mermaid Live
+        url: https://mermaid.live/
+        icon: fas fa-project-diagram
+        description: Markdown流程图在线编辑器
