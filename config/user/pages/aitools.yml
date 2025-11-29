@@ -14,8 +14,18 @@ categories:
       - name: AIStudio
         url: https://aistudio.google.com/
         icon: fab fa-aistudio
+        description: 谷歌AIStudio
       - name: Notebooklm
         url: https://notebooklm.google.com/
         icon: fab fa-notebooklm
+        description: 谷歌Notebooklm
+
+  - name: AI排行榜
+    icon: fab fa-google # 微信图标
+    sites:
+      - name: Lmarena
+        url: https://lmarena.ai/leaderboard
+        icon: fab fa-aistudio
+        description: AI排行榜网站
 
 
