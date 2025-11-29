@@ -6,6 +6,7 @@ subtitle: 公众号运营所需工具 # 页面副标题
 # 指定使用的模板文件名，现有页面模板可见 templates/pages（不含 .hbs）
 template: aitools
 
+
 # 页面分类与站点列表
 categories:
   - name: 谷歌AI
@@ -19,6 +20,38 @@ categories:
         url: https://notebooklm.google.com/
         icon: fab fa-notebooklm
         description: 谷歌Notebooklm
+      - name: Gemini
+        url: https://gemini.google.com/
+        icon: fab fa-google
+        description: 谷歌 Gemini 多模态 AI 助手
+
+  - name: OpenAI
+    icon: fas fa-robot
+    sites:
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        icon: fab fa-openai
+        description: OpenAI 官方 ChatGPT 对话平台
+      - name: OpenAI Platform
+        url: https://platform.openai.com/
+        icon: fab fa-openai
+        description: OpenAI 开发者平台与 API 控制台
+
+  - name: 通用AI助手
+    icon: fas fa-brain
+    sites:
+      - name: Claude
+        url: https://claude.ai/
+        icon: fas fa-brain
+        description: Anthropic 出品的通用 AI 助手
+      - name: Microsoft Copilot
+        url: https://copilot.microsoft.com/
+        icon: fab fa-microsoft
+        description: 微软 Copilot AI 助手
+      - name: Perplexity
+        url: https://www.perplexity.ai/
+        icon: fas fa-search
+        description: 带引用来源的 AI 搜索与问答助手
 
   - name: AI排行榜
     icon: fab fa-google # 微信图标
@@ -27,5 +60,4 @@ categories:
         url: https://lmarena.ai/leaderboard
         icon: fab fa-aistudio
         description: AI排行榜网站
-
 
