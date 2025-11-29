@@ -41,9 +41,6 @@ social:
   - name: Dblp
     url: https://dblp.qq394481125.workers.dev/
     icon: fab fa-github
-  - name: TrendRadar
-    url: https://394481125.github.io/TrendRadar/
-    icon: fab fa-github
   - name: GithubTrendRadar
     url: https://githubtrend.qq394481125.workers.dev/
     icon: fab fa-github
