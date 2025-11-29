@@ -8,13 +8,14 @@ template: wechat
 
 # 页面分类与站点列表
 categories:
-  - name: 运营工具
-    icon: fab fa-weixin # 微信图标
+  - name: 谷歌AI
+    icon: fab fa-google # 微信图标
     sites:
       - name: AIStudio
         url: https://aistudio.google.com/
-        icon: fab fa-google
+        icon: fab fa-aistudio
       - name: Notebooklm
         url: https://notebooklm.google.com/
-        icon: fab fa-google
+        icon: fab fa-notebooklm
+
 
