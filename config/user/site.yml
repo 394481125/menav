@@ -50,6 +50,12 @@ social:
   - name: 今日热榜
     url: https://hot.vvhan.com/
     icon: fab fa-github
+  - name: AIStudio
+    url: https://aistudio.google.com/
+    icon: fab fa-google
+  - name: Notebooklm
+    url: https://notebooklm.google.com/
+    icon: fab fa-google
 
 
 # 导航配置
