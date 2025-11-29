@@ -64,6 +64,9 @@ navigation:
   - name: AI工具库
     icon: fas fa-google
     id: aitools
+  - name: 其他导航网站
+    icon: fas fa-friends
+    id: otherguide
   - name: 书签
     icon: fas fa-bookmark
     id: bookmarks
