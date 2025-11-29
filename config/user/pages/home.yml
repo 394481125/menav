@@ -972,6 +972,10 @@ categories:
         url: https://gamma.app/
         icon: fas fa-presentation
         description: AI一键生成精美PPT演示文稿
+      - name: Genspark
+        url: https://www.genspark.ai/
+        icon: fas fa-genspark
+        description: AI全站PPT生成调研出图等
       - name: Clipdrop
         url: https://clipdrop.co/
         icon: fas fa-eraser
