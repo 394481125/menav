@@ -59,7 +59,7 @@ navigation:
     id: home           # 页面标识符（唯一，需与 pages/home.yml 对应）
     active: true       # 是否默认激活（全局仅一个 true）
   - name: 公众号
-    icon: fas fa-wechat
+    icon: fas fa-comment
     id: wechat
   - name: AI工具库
     icon: fas fa-google
