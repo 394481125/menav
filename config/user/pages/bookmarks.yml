@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-29T14:02:03.529Z
+# 由bookmark-processor.js生成于 2025-12-02T13:10:28.472Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1940,6 +1940,10 @@ categories:
                 icon: fab fa-github
                 description: ""
         sites:
+          - name: MeNav
+            url: https://394481125.github.io/menav/
+            icon: fab fa-github
+            description: ""
           - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
             url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
             icon: fas fa-link
@@ -1963,10 +1967,6 @@ categories:
           - name: 因果推断：因果表征学习的CV落地 - 知乎
             url: https://zhuanlan.zhihu.com/p/400043237
             icon: fas fa-link
-            description: ""
-          - name: MeNav
-            url: https://394481125.github.io/menav/
-            icon: fab fa-github
             description: ""
           - name: 重庆市公共就业服务网
             url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
