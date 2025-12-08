@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-08T09:54:41.485Z
+# 由bookmark-processor.js生成于 2025-12-08T09:56:18.316Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -358,6 +358,14 @@ categories:
                     description: ""
                   - name: AI文献综述 | 立理 LitLit AI 学术工作站
                     url: https://litlit.sciradar.com/litreview
+                    icon: fas fa-link
+                    description: ""
+                  - name: "根据以下大纲写四段的介绍部分内容，并查找25篇以上可以引用的文献：Introduction 逻辑大纲 (Revised Roadmap) Para 1: 临床背景与紧迫性 (The Clinical Urgency) AD是全球挑战 → → 病理（A β β ）早于症状 → → 随着抗淀粉样蛋白药物（Lecanemab）获批，早期识别不再可选，而是必须。 Para 2: 影像学悖论与AI现状 (The Imaging Paradox &amp; AI Context) 影像痛点：精准的（PET/HR-MRI）无法普及，普及的（LR-MRI）看不清。 AI现状：AI虽然提升了分析能力，但目前的“多模态融合”模型存在严重缺陷——推理时必须有PET数据，这在临床是不现实的。 Para 3: 具体技术缺口与本文方法 (The Technical Gap &amp; Proposed Solution) Gap (前人不足)：现有的“领域自适应”方法在处理PET（分子）和MRI（结构）的巨大差异时，往往因无法对齐而失败（Negative Transfer）。 Novelty (本文方法)：针对这一具体难题，引入AD-UMDAN。核心机制是“跨分辨率编码”和“模态注意力”，实现知识迁移。 Para 4: 验证与意义 (Evaluation &amp; Impact) 不仅看准确率，更看可解释性（可视化海马体关注点），证明模型是可信的，从而确立其作为低成本筛查工具的价值。 - Consensus"
+                    url: https://consensus.app/search/%E6%A0%B9%E6%8D%AE%E4%BB%A5%E4%B8%8B%E5%A4%A7%E7%BA%B2%E5%86%99%E5%9B%9B%E6%AE%B5%E7%9A%84%E4%BB%8B%E7%BB%8D%E9%83%A8%E5%88%86%E5%86%85%E5%AE%B9%E5%B9%B6%E6%9F%A5%E6%89%BE25%E7%AF%87%E4%BB%A5%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%BC%95%E7%94%A8%E7%9A%84%E6%96%87%E7%8C%AEintroduction-%E9%80%BB%E8%BE%91%E5%A4%A7%E7%BA%B2-r/1Cv1uKrkSVaAvM06aFCkQw/
+                    icon: fas fa-link
+                    description: ""
+                  - name: Undermind - Radically better research and discovery
+                    url: https://app.undermind.ai/report/dd169bd0b7283e42033cb501bf4be800ea5c0ebf23bc3de8c721240e3f68275d
                     icon: fas fa-link
                     description: ""
               - name: AI找引用
@@ -1976,10 +1984,6 @@ categories:
             url: https://blog.csdn.net/2401_84495872/article/details/148743304
             icon: fas fa-link
             description: ""
-          - name: "根据以下大纲写四段的介绍部分内容，并查找25篇以上可以引用的文献：Introduction 逻辑大纲 (Revised Roadmap) Para 1: 临床背景与紧迫性 (The Clinical Urgency) AD是全球挑战 → → 病理（A β β ）早于症状 → → 随着抗淀粉样蛋白药物（Lecanemab）获批，早期识别不再可选，而是必须。 Para 2: 影像学悖论与AI现状 (The Imaging Paradox &amp; AI Context) 影像痛点：精准的（PET/HR-MRI）无法普及，普及的（LR-MRI）看不清。 AI现状：AI虽然提升了分析能力，但目前的“多模态融合”模型存在严重缺陷——推理时必须有PET数据，这在临床是不现实的。 Para 3: 具体技术缺口与本文方法 (The Technical Gap &amp; Proposed Solution) Gap (前人不足)：现有的“领域自适应”方法在处理PET（分子）和MRI（结构）的巨大差异时，往往因无法对齐而失败（Negative Transfer）。 Novelty (本文方法)：针对这一具体难题，引入AD-UMDAN。核心机制是“跨分辨率编码”和“模态注意力”，实现知识迁移。 Para 4: 验证与意义 (Evaluation &amp; Impact) 不仅看准确率，更看可解释性（可视化海马体关注点），证明模型是可信的，从而确立其作为低成本筛查工具的价值。 - Consensus"
-            url: https://consensus.app/search/%E6%A0%B9%E6%8D%AE%E4%BB%A5%E4%B8%8B%E5%A4%A7%E7%BA%B2%E5%86%99%E5%9B%9B%E6%AE%B5%E7%9A%84%E4%BB%8B%E7%BB%8D%E9%83%A8%E5%88%86%E5%86%85%E5%AE%B9%E5%B9%B6%E6%9F%A5%E6%89%BE25%E7%AF%87%E4%BB%A5%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%BC%95%E7%94%A8%E7%9A%84%E6%96%87%E7%8C%AEintroduction-%E9%80%BB%E8%BE%91%E5%A4%A7%E7%BA%B2-r/1Cv1uKrkSVaAvM06aFCkQw/
-            icon: fas fa-link
-            description: ""
       - name: 其他收藏夹
         icon: fas fa-folder
         path:
@@ -3390,10 +3394,6 @@ categories:
             description: ""
           - name: (31 封私信 / 82 条消息) 使用searxng打造私有聚合搜索引擎：免费、高效、支持API调用 - 知乎
             url: https://zhuanlan.zhihu.com/p/30059869878
-            icon: fas fa-link
-            description: ""
-          - name: Undermind - Radically better research and discovery
-            url: https://app.undermind.ai/report/dd169bd0b7283e42033cb501bf4be800ea5c0ebf23bc3de8c721240e3f68275d
             icon: fas fa-link
             description: ""
           - name: SURD：将因果关系分解为协同、独特和冗余成分（案例分析）_surd因果推断-CSDN博客
