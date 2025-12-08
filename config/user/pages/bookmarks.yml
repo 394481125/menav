@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-02T13:10:28.472Z
+# 由bookmark-processor.js生成于 2025-12-08T09:39:47.794Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1970,6 +1970,10 @@ categories:
             description: ""
           - name: 重庆市公共就业服务网
             url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
+            icon: fas fa-link
+            description: ""
+          - name: 科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！_consensus.app-CSDN博客
+            url: https://blog.csdn.net/2401_84495872/article/details/148743304
             icon: fas fa-link
             description: ""
       - name: 其他收藏夹
