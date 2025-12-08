@@ -60,4 +60,15 @@ categories:
         url: https://lmarena.ai/leaderboard
         icon: fab fa-aistudio
         description: AI排行榜网站
-
+    
+  - name: AI综述
+    icon: fab fa-consensus # 微信图标
+    sites:
+      - name: Undermind
+        url: https://app.undermind.ai/
+        icon: fab fa-undermind
+        description: UndermindAI综述网站
+      - name: Consensus
+        url: https://consensus.app/
+        icon: fab fa-consensus
+        description: ConsensusAI综述网站
