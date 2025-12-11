@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:51:27.448Z
+# 由bookmark-processor.js生成于 2025-12-11T13:00:45.230Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2670,10 +2670,6 @@ categories:
                 description: ""
               - name: 【技术追踪】MedCLIP-SAM：桥接文本和图像实现通用医学图像分割（MICCAI-2024）_biomedclip-CSDN博客
                 url: https://blog.csdn.net/qq_43426908/article/details/140087010
-                icon: fas fa-link
-                description: ""
-              - name: 中国专利 专利之星
-                url: https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=5bCP5qC35pysIOWbvuWDj+WIhuWJsi9ZWQ==&amp;type=cn
                 icon: fas fa-link
                 description: ""
               - name: 专利之星检索系统
