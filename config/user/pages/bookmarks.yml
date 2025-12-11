@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:51:07.301Z
+# 由bookmark-processor.js生成于 2025-12-11T12:51:27.448Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1898,59 +1898,6 @@ categories:
               - ""
               - 其他收藏夹
               - 扩散模型
-            subgroups:
-              - name: 新建文件夹
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 其他收藏夹
-                  - 扩散模型
-                  - 新建文件夹
-                sites:
-                  - name: 国外小哥哥手把手带你用PyTorch写扩散模型 (Diffusion Models)_哔哩哔哩_bilibili
-                    url: https://www.bilibili.com/video/BV1vL41117L5/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4c6e05f9f2d500c60147bb4331703f2a
-                    icon: fas fa-link
-                    description: ""
-                  - name: 【读论文】扩散模型Diffusion数学推导的详尽步骤讲解！外带代码和数学公式对照！_哔哩哔哩_bilibili
-                    url: https://www.bilibili.com/video/BV1ZV4y1X7BM/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4c6e05f9f2d500c60147bb4331703f2a
-                    icon: fas fa-link
-                    description: ""
-                  - name: Diffusion Model：比“GAN&quot;还要牛逼的图像生成模型！公式推导+论文精读，迪哥打你从零详解扩散模型！_哔哩哔哩_bilibili
-                    url: https://www.bilibili.com/video/BV1pD4y1179T/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4c6e05f9f2d500c60147bb4331703f2a
-                    icon: fas fa-link
-                    description: ""
-                  - name: (30) Diffusion Models | Paper Explanation | Math Explained - YouTube
-                    url: https://www.youtube.com/watch?v=HoKDTa5jHvg
-                    icon: fab fa-youtube
-                    description: ""
-                  - name: "(30) CS 198-126: Lecture 12 - Diffusion Models - YouTube"
-                    url: https://www.youtube.com/watch?v=687zEGODmHA
-                    icon: fab fa-youtube
-                    description: ""
-                  - name: DiffusionFastForward/01-Diffusion-Theory.md 掌握· mikonvergence/DiffusionFastForward
-                    url: https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md
-                    icon: fab fa-github
-                    description: ""
-                  - name: (11条消息) 扩散模型（Diffusion Model）——由浅入深的理解_WSLGN的博客-CSDN博客
-                    url: https://blog.csdn.net/Little_White_9/article/details/124435560?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168243558216800182759740%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=168243558216800182759740&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124435560-null-null.142^v86^koosearch_v1,239^v2^insert_chatgpt&amp;utm_term=%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B&amp;spm=1018.2226.3001.4187
-                    icon: fas fa-link
-                    description: ""
-                  - name: (11条消息) 扩散模型（Diffusion Model）最新综述！_Amusi（CVer）的博客-CSDN博客
-                    url: https://blog.csdn.net/amusi1994/article/details/126863315
-                    icon: fas fa-link
-                    description: ""
-                  - name: 2209.02646.pdf
-                    url: https://arxiv.org/pdf/2209.02646.pdf
-                    icon: fas fa-link
-                    description: ""
-                  - name: 在线LaTeX公式编辑器-编辑器
-                    url: https://www.latexlive.com/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 扩散模型的工作原理：从零开始的数学 - 知乎
-                    url: https://zhuanlan.zhihu.com/p/599538060
-                    icon: fas fa-link
-                    description: ""
             sites:
               - name: 【diffusion】扩散模型详解！理论＋代码！ - 飞桨AI Studio
                 url: https://aistudio.baidu.com/aistudio/projectdetail/4867936?channelType=0&amp;channel=0
