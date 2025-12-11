@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:49:26.663Z
+# 由bookmark-processor.js生成于 2025-12-11T12:49:56.953Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -184,6 +184,14 @@ categories:
                   - AI
                   - AI代码
                 sites:
+                  - name: cosanlab/cosanlab_preproc at d4d9caaee72891542a8a6b95cf43b3b87e14fea3
+                    url: https://github.com/cosanlab/cosanlab_preproc/tree/d4d9caaee72891542a8a6b95cf43b3b87e14fea3
+                    icon: fab fa-github
+                    description: ""
+                  - name: "nipy/nipype: Workflows and interfaces for neuroimaging packages"
+                    url: https://github.com/nipy/nipype
+                    icon: fab fa-github
+                    description: ""
                   - name: torch_geometric.nn.conv.GCNConv — pytorch_geometric documentation
                     url: https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.GCNConv.html#torch_geometric.nn.conv.GCNConv
                     icon: fas fa-link
@@ -1858,40 +1866,12 @@ categories:
                     url: https://www.nsfc.gov.cn/
                     icon: fas fa-link
                     description: ""
-                  - name: 2025年项目指南
-                    url: https://www.nsfc.gov.cn/publish/portal0/tab626/module1550/more.htm
-                    icon: fas fa-link
-                    description: ""
-                  - name: 科学部资助领域和注意事项
-                    url: https://www.nsfc.gov.cn/publish/portal0/xmzn/2025/01/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 重点项目
-                    url: https://www.nsfc.gov.cn/publish/portal0/xmzn/2025/05/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 信息科学部
-                    url: https://www.nsfc.gov.cn/publish/portal0//xmzn/2025/05/info94094.htm
-                    icon: fas fa-link
-                    description: ""
-                  - name: 医学科学部
-                    url: https://www.nsfc.gov.cn/publish/portal0//xmzn/2025/05/info94092.htm
-                    icon: fas fa-link
-                    description: ""
-                  - name: 多源域自适应 - 搜索
-                    url: https://cn.bing.com/search?pglt=387&amp;q=%E5%A4%9A%E6%BA%90%E5%9F%9F%E8%87%AA%E9%80%82%E5%BA%94&amp;cvid=36ad1fb7f8f043d79ad83dba272db615&amp;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxNTYwNmowajGoAgiwAgE&amp;FORM=ANNTA1&amp;adppc=EDGEESS&amp;PC=U531
-                    icon: fas fa-link
-                    description: ""
                   - name: 2020年，多源域适应（域迁移） MDA最新方法总结综述_多源域领域适配方法-CSDN博客
                     url: https://blog.csdn.net/m0_37192554/article/details/104610960
                     icon: fas fa-link
                     description: ""
                   - name: 同时对齐分布和分类器的多源领域自适应方法 - 知乎
                     url: https://zhuanlan.zhihu.com/p/337446240
-                    icon: fas fa-link
-                    description: ""
-                  - name: Your Projects - Overleaf, Online LaTeX Editor
-                    url: https://www.overleaf.com/project
                     icon: fas fa-link
                     description: ""
                   - name: "dblp: Search for &quot;genetic MRI&quot;"
@@ -1914,10 +1894,6 @@ categories:
                     url: https://www.sciencedirect.com/science/article/pii/S0933365723001926
                     icon: fas fa-link
                     description: ""
-                  - name: MNI空间和MNI模板
-                    url: https://www.notion.so/MNI-MNI-1ecc645154f680ce82d4c95bc918296e
-                    icon: fas fa-link
-                    description: ""
                   - name: 图像重采样插值原理与其在MRI脑影像分辨率修改中的应用-CSDN博客
                     url: https://blog.csdn.net/Alexa_/article/details/132482946
                     icon: fas fa-link
@@ -1925,38 +1901,6 @@ categories:
                   - name: FSL-scripts/rsc at master · ahheckel/FSL-scripts
                     url: https://github.com/ahheckel/FSL-scripts/tree/master/rsc
                     icon: fab fa-github
-                    description: ""
-                  - name: cosanlab/cosanlab_preproc at d4d9caaee72891542a8a6b95cf43b3b87e14fea3
-                    url: https://github.com/cosanlab/cosanlab_preproc/tree/d4d9caaee72891542a8a6b95cf43b3b87e14fea3
-                    icon: fab fa-github
-                    description: ""
-                  - name: "nipy/nipype: Workflows and interfaces for neuroimaging packages"
-                    url: https://github.com/nipy/nipype
-                    icon: fab fa-github
-                    description: ""
-                  - name: 完善专利内容 - 豆包
-                    url: https://www.doubao.com/chat/4429511187889410
-                    icon: fas fa-link
-                    description: ""
-                  - name: 一种基于数字孪生的海洋环境多模态融合预测方法及系统
-                    url: https://www.xjishu.com/zhuanli/55/202510066065.html
-                    icon: fas fa-link
-                    description: ""
-                  - name: 基于多模态信息融合的水环境质量监测研究-【维普期刊官网】- 中文期刊服务平台
-                    url: https://qikan.cqvip.com/Qikan/Article/Detail?id=7110800084
-                    icon: fas fa-link
-                    description: ""
-                  - name: 中国专利 专利之星
-                    url: https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=5aSa5qih5oCBIOi9puWGhSDnm5HmtYsvWVk=&amp;type=cn
-                    icon: fas fa-link
-                    description: ""
-                  - name: 专利之星检索系统
-                    url: https://cprs.patentstar.com.cn/Search/Detail?ANE=9GGF8FDA9AIBAIEA9IEE9IBA9FIH9DAD9DEB8BFA9HCFCGHA
-                    icon: fas fa-link
-                    description: ""
-                  - name: 专利之星检索系统
-                    url: https://cprs.patentstar.com.cn/Search/Detail?ANE=9ICD6CEA9DGC9EGF9FEB4CBA9CHCAIIA9DCE9IBG9FBD9HAC
-                    icon: fas fa-link
                     description: ""
           - name: 重庆官网
             icon: fas fa-folder
