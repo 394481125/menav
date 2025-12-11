@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:00:45.230Z
+# 由bookmark-processor.js生成于 2025-12-11T13:01:05.544Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2672,26 +2672,6 @@ categories:
                 url: https://blog.csdn.net/qq_43426908/article/details/140087010
                 icon: fas fa-link
                 description: ""
-              - name: 专利之星检索系统
-                url: https://cprs.patentstar.com.cn/Search/Detail?ANE=5BCA7DEA9DFB9DEC9FIF8AIABFFABIGA9DGF8FCA5BAA9ECB
-                icon: fas fa-link
-                description: ""
-              - name: 中国专利 专利之星
-                url: https://cprs.patentstar.com.cn/Search/ResultList?CurrentQuery=56ym5Y+36Led56a75Zu+IOWIhuWJsi9ZWQ==&amp;type=cn
-                icon: fas fa-link
-                description: ""
-              - name: 专利之星检索系统
-                url: https://cprs.patentstar.com.cn/Search/Detail?ANE=9IGH9DGABIIA9ICE5BDA4BCA9DGG3ABA9EDBHIHA5AEA9CHD
-                icon: fas fa-link
-                description: ""
-              - name: 专利之星检索系统
-                url: https://cprs.patentstar.com.cn/Search/Detail?ANE=3ABA5EBA6AEA7CBA7GAA5DCA5CDA5BCA4EAA9CDA7HAA9AIE
-                icon: fas fa-link
-                description: ""
-              - name: 专利之星检索系统
-                url: https://cprs.patentstar.com.cn/Search/Detail?ANE=9IDE9IHG8ECA9FGG6CDA7AGA5DCA9AGC9DDG1BAA9CIC9CDD
-                icon: fas fa-link
-                description: ""
               - name: 百度翻译-您的超级翻译伙伴（文本、文档翻译）
                 url: https://fanyi.baidu.com/mtpe-individual/multimodal?query=%E6%A0%B9%E6%8D%AE%E4%BB%A5%E4%B8%8B%E5%86%85%E5%AE%B9%E5%86%99%E5%87%BA%E6%91%98%E8%A6%81%EF%BC%8C%E9%A2%98%E7%9B%AE%E4%B8%BA%EF%BC%9AAdaptive%20Visual-Text%20Prior-Aware%20driven%20Prototype%20Relationship%20Optimization%20for%20Few-Shot%20Medical%20Image%20Segmentation%20%E6%96%B9%E6%B3%95%E4%B8%BA%E4%BB%A5%E4%B8%8B%EF%BC%9A%5Csubsection%7BAdaptive%20Visual-Text%20Prior-Aware%7D%0A%5Csubsubsection%7BAdaptive%20Visual-Text%20Prior-Aware%20Prompting%20Learning%7D%0A%5Csubsubsection%7BMasked%20Bi-Directional%20Feature%20Alignment%7D%0A%5Csubsection%7BPrototype%20Relationship%20Optimization%7D%0A%5Csubsubsection%7BGraph-Based%20Multi-Region%20Prototype%20Optimization%7D%0A%5Csubsubsection%7BForeground-Background%20Prototype%20Contrastive%20Learning%20Optimization%7D%0A&amp;lang=en2zh#/
                 icon: fas fa-link
@@ -2760,21 +2740,9 @@ categories:
                 url: https://github.com/YazhouZhu19/RPT
                 icon: fab fa-github
                 description: ""
-              - name: 实验表格
-                url: https://docs.qq.com/sheet/DZEttRVdkZ2hhVnpl?tab=BB08J2
-                icon: fas fa-link
-                description: ""
               - name: "YazhouZhu19/DMAP: [Pattern Recognition Letters 2024] Learning De-biased Prototypes for Few-shot Medical Image Segmentation"
                 url: https://github.com/YazhouZhu19/DMAP/tree/main
                 icon: fab fa-github
-                description: ""
-              - name: 2233.ai
-                url: https://2233.ai/chatgpt?reason=session%20is%20nil
-                icon: fas fa-link
-                description: ""
-              - name: ChatGPT
-                url: https://chat8.2233.ai/c/0bb584c2-fa8e-4377-926a-0198f3e17584
-                icon: fas fa-link
                 description: ""
               - name: "ShawnHuang497/RecLMIS: This repo is the official implementation of &quot;RecLMIS: Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation&quot;"
                 url: https://github.com/ShawnHuang497/RecLMIS
