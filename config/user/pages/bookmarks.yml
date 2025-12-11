@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:47:14.060Z
+# 由bookmark-processor.js生成于 2025-12-11T12:49:26.663Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -268,6 +268,14 @@ categories:
                   - AI
                   - AI论文
                 sites:
+                  - name: FSL-scripts/rsc/fsl/templates at master · ahheckel/FSL-scripts
+                    url: https://github.com/ahheckel/FSL-scripts/tree/master/rsc/fsl/templates
+                    icon: fab fa-github
+                    description: ""
+                  - name: 双曲小波变换
+                    url: https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/10_2_03_Petrov.pdf
+                    icon: fas fa-link
+                    description: ""
                   - name: 因果推断：因果表征学习的CV落地 - 知乎
                     url: https://zhuanlan.zhihu.com/p/400043237
                     icon: fas fa-link
@@ -1950,27 +1958,21 @@ categories:
                     url: https://cprs.patentstar.com.cn/Search/Detail?ANE=9ICD6CEA9DGC9EGF9FEB4CBA9CHCAIIA9DCE9IBG9FBD9HAC
                     icon: fas fa-link
                     description: ""
+          - name: 重庆官网
+            icon: fas fa-folder
+            path:
+              - ""
+              - 收藏夹栏
+              - 重庆官网
             sites:
-              - name: 双曲小波变换
-                url: https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/10_2_03_Petrov.pdf
+              - name: 重庆市公共就业服务网
+                url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
                 icon: fas fa-link
-                description: ""
-              - name: FSL-scripts/rsc/fsl/templates at master · ahheckel/FSL-scripts
-                url: https://github.com/ahheckel/FSL-scripts/tree/master/rsc/fsl/templates
-                icon: fab fa-github
                 description: ""
         sites:
           - name: MeNav
             url: https://394481125.github.io/menav/
             icon: fab fa-github
-            description: ""
-          - name: 重庆市公共就业服务网
-            url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
-            icon: fas fa-link
-            description: ""
-          - name: 科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！_consensus.app-CSDN博客
-            url: https://blog.csdn.net/2401_84495872/article/details/148743304
-            icon: fas fa-link
             description: ""
       - name: 其他收藏夹
         icon: fas fa-folder
