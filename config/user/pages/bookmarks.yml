@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:14:31.665Z
+# 由bookmark-processor.js生成于 2025-12-11T13:19:53.812Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -130,10 +130,6 @@ categories:
                     description: ""
                   - name: 2233.ai
                     url: https://2233.ai/chatgpt
-                    icon: fas fa-link
-                    description: ""
-                  - name: 新对话 - 豆包
-                    url: https://www.doubao.com/chat/649347066742530
                     icon: fas fa-link
                     description: ""
               - name: AI组织
@@ -324,10 +320,6 @@ categories:
                   - AI
                   - AI项目
                 sites:
-                  - name: MGX
-                    url: https://mgx.dev/
-                    icon: fas fa-link
-                    description: ""
                   - name: 基于YOLOv8深度学习的智能车牌检测与识别系统【python源码+Pyqt5界面+数据集+训练代码】目标检测、深度学习实战 - 知乎
                     url: https://zhuanlan.zhihu.com/p/684098273
                     icon: fas fa-link
@@ -1862,6 +1854,10 @@ categories:
                 description: ""
               - name: MinerU
                 url: https://mineru.org.cn/client?source=modelscope
+                icon: fas fa-link
+                description: ""
+              - name: MGX
+                url: https://mgx.dev/
                 icon: fas fa-link
                 description: ""
         sites:
