@@ -339,6 +339,10 @@ categories:
         url: https://www.overleaf.com/
         icon: fas fa-file-code
         description: 在线LaTeX编辑器
+      - name: Latexlive
+        url: https://www.latexlive.com/
+        icon: fas fa-robot
+        description: 在线LaTeX公式编辑
       - name: CiteThisForMe
         url: https://www.citethisforme.com/
         icon: fas fa-quote-left

@@ -62,7 +62,7 @@ categories:
         description: AI排行榜网站
     
   - name: AI综述
-    icon: fab fa-consensus # 微信图标
+    icon: fab fa-robot # 微信图标
     sites:
       - name: Undermind
         url: https://app.undermind.ai/
