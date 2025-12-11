@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:02:33.444Z
+# 由bookmark-processor.js生成于 2025-12-11T13:06:54.760Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -527,10 +527,6 @@ categories:
               - name: 下载-大白智能
                 url: https://www.jiangdabai.com/downloads
                 icon: fas fa-link
-                description: ""
-              - name: Qi Wang
-                url: https://crabwq.github.io/
-                icon: fab fa-github
                 description: ""
               - name: GNN
                 url: https://distill.pub/2021/gnn-intro/
@@ -1591,6 +1587,10 @@ categories:
               - name: 打破壁垒：基于选择性不确定性的主动学习用于医学图像分割 |IEEE会议出版物 |IEEE Xplore的
                 url: https://ieeexplore.ieee.org/abstract/document/10446026
                 icon: fas fa-link
+                description: ""
+              - name: Qi Wang
+                url: https://crabwq.github.io/
+                icon: fab fa-github
                 description: ""
           - name: UKB
             icon: fas fa-folder
