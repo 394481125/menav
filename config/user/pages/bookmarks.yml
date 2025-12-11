@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:50:46.025Z
+# 由bookmark-processor.js生成于 2025-12-11T12:51:07.301Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1822,18 +1822,6 @@ categories:
                     url: https://ida.loni.usc.edu/login.jsp
                     icon: fas fa-link
                     description: ""
-                  - name: 分析训练过程中的损失函数 - 豆包
-                    url: https://www.doubao.com/chat/3926919419338498
-                    icon: fas fa-link
-                    description: ""
-                  - name: JBHI - Online LaTeX Editor Overleaf
-                    url: https://www.overleaf.com/project/6710c278c2bf61b57d4b5860
-                    icon: fas fa-link
-                    description: ""
-                  - name: Elsevier - Online LaTeX Editor Overleaf
-                    url: https://www.overleaf.com/project/6756a249b5630026b2600abf
-                    icon: fas fa-link
-                    description: ""
               - name: "0513"
                 icon: fas fa-folder
                 path:
@@ -1919,10 +1907,6 @@ categories:
                   - 扩散模型
                   - 新建文件夹
                 sites:
-                  - name: 李宏毅：扩散模型原理解读_哔哩哔哩_bilibili
-                    url: https://www.bilibili.com/video/BV1T24y1L79a/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4c6e05f9f2d500c60147bb4331703f2a
-                    icon: fas fa-link
-                    description: ""
                   - name: 国外小哥哥手把手带你用PyTorch写扩散模型 (Diffusion Models)_哔哩哔哩_bilibili
                     url: https://www.bilibili.com/video/BV1vL41117L5/?spm_id_from=333.337.search-card.all.click&amp;vd_source=4c6e05f9f2d500c60147bb4331703f2a
                     icon: fas fa-link
@@ -2134,10 +2118,6 @@ categories:
                 description: ""
               - name: 西门子官宣！医学影像AI是否可行？
                 url: https://baijiahao.baidu.com/s?id=1751084749479333544&amp;wfr=spider&amp;for=pc
-                icon: fas fa-link
-                description: ""
-              - name: 医疗人拼了！解读CMEF2023火爆背后的六大趋势|微创|内镜|手术|ct|显微|医生|内窥镜|腹腔镜_网易订阅
-                url: https://www.163.com/dy/article/I50NAJ1705118K9D.html
                 icon: fas fa-link
                 description: ""
               - name: 西门子医疗利用人工智能加速磁共振扫描时间、提高成像质量
