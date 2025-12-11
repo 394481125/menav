@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:19:53.812Z
+# 由bookmark-processor.js生成于 2025-12-11T13:20:14.061Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -447,18 +447,6 @@ categories:
                   - name: "aramis-lab/clinicadl_handbook: Tutorial to use (new version of) clinicadl (&gt;1.0.3)"
                     url: https://github.com/aramis-lab/clinicadl_handbook
                     icon: fab fa-github
-                    description: ""
-              - name: AI文件转换
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 收藏夹栏
-                  - AI
-                  - AI文件转换
-                sites:
-                  - name: 下载文件 | iLovePDF
-                    url: https://www.ilovepdf.com/zh-cn/download/vftvkwA5nx7rv0jqswdymn12ztAdgn3qhn7lAqn0rrlbt47t4hnmcx5dv80txs8bw1py44jv8692rw2Aj8ms78g6m4v4nrqfggj89bmrj7xdkzmgsz7bn2qj7nxvw4zz2h8sp3yApt8znmrvs0d1f45mwm7b28cd4jrwtjrA097r4cr3A23A66s0x9752fz36x41rhzmmf7my/90o
-                    icon: fas fa-link
                     description: ""
           - name: 贪吃蛇
             icon: fas fa-folder
@@ -1858,6 +1846,10 @@ categories:
                 description: ""
               - name: MGX
                 url: https://mgx.dev/
+                icon: fas fa-link
+                description: ""
+              - name: 下载文件 | iLovePDF
+                url: https://www.ilovepdf.com/zh-cn/download/vftvkwA5nx7rv0jqswdymn12ztAdgn3qhn7lAqn0rrlbt47t4hnmcx5dv80txs8bw1py44jv8692rw2Aj8ms78g6m4v4nrqfggj89bmrj7xdkzmgsz7bn2qj7nxvw4zz2h8sp3yApt8znmrvs0d1f45mwm7b28cd4jrwtjrA097r4cr3A23A66s0x9752fz36x41rhzmmf7my/90o
                 icon: fas fa-link
                 description: ""
         sites:
