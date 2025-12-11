@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:09:02.772Z
+# 由bookmark-processor.js生成于 2025-12-11T13:09:30.724Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1143,10 +1143,6 @@ categories:
                     url: https://stanfordmlgroup.github.io/competitions/mura/
                     icon: fab fa-github
                     description: ""
-                  - name: DeepLesion | 由 Box 提供支持
-                    url: https://nihcc.app.box.com/v/DeepLesion
-                    icon: fas fa-link
-                    description: ""
                   - name: Multiscale progressive text prompt network for medical image segmentation - ScienceDirect
                     url: https://www.sciencedirect.com/science/article/pii/S0097849323002170#sec4
                     icon: fas fa-link
@@ -1495,10 +1491,6 @@ categories:
                     url: https://arxiv.org/pdf/2206.14718
                     icon: fas fa-link
                     description: ""
-                  - name: iconfont-阿里巴巴矢量图标库
-                    url: https://www.iconfont.cn/search/index?searchType=icon&amp;q=%E9%9B%AA%E8%8A%B1&amp;page=3
-                    icon: fas fa-link
-                    description: ""
                   - name: 【NLP学习】Adapter的简介 - 知乎
                     url: https://zhuanlan.zhihu.com/p/537186128
                     icon: fas fa-link
@@ -1770,10 +1762,6 @@ categories:
                     url: https://github.com/Matt-Su/DR-Adapter/tree/6223dfd8bede20fce4ed6f3064d99c5fd36648fe
                     icon: fab fa-github
                     description: ""
-                  - name: 根据因果图进行修改 - 豆包
-                    url: https://www.doubao.com/chat/3877523742272258
-                    icon: fas fa-link
-                    description: ""
                   - name: "IEEE Xplore Full-Text PDF:"
                     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10971360
                     icon: fas fa-link
@@ -1875,6 +1863,10 @@ categories:
               - name: Nipype Beginner&#039;s Guide — All you need to know to become an expert in Nipype
                 url: https://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html#acquisition-of-mri-data
                 icon: fab fa-github
+                description: ""
+              - name: iconfont-阿里巴巴矢量图标库
+                url: https://www.iconfont.cn/search/index?searchType=icon&amp;q=%E9%9B%AA%E8%8A%B1&amp;page=3
+                icon: fas fa-link
                 description: ""
         sites:
           - name: MeNav
