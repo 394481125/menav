@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:08:17.035Z
+# 由bookmark-processor.js生成于 2025-12-11T13:09:02.772Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1623,10 +1623,6 @@ categories:
                 url: https://www.fmrib.ox.ac.uk/ukbiobank/
                 icon: fas fa-link
                 description: ""
-              - name: Nipype Beginner&#039;s Guide — All you need to know to become an expert in Nipype
-                url: https://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html#acquisition-of-mri-data
-                icon: fab fa-github
-                description: ""
               - name: openBio/UKB_notebooks/loading_data_into_jupyterlab.ipynb 在 master ·dnanexus/OpenBio
                 url: https://github.com/dnanexus/OpenBio/blob/master/UKB_notebooks/loading_data_into_jupyterlab.ipynb
                 icon: fab fa-github
@@ -1732,10 +1728,6 @@ categories:
                     description: ""
                   - name: Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection
                     url: https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.pdf
-                    icon: fas fa-link
-                    description: ""
-                  - name: 豆包
-                    url: https://www.doubao.com/chat/3744753665847554
                     icon: fas fa-link
                     description: ""
                   - name: 20250418164209.pdf
@@ -1872,6 +1864,17 @@ categories:
               - name: 重庆市公共就业服务网
                 url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
                 icon: fas fa-link
+                description: ""
+          - name: 代存网站
+            icon: fas fa-folder
+            path:
+              - ""
+              - 收藏夹栏
+              - 代存网站
+            sites:
+              - name: Nipype Beginner&#039;s Guide — All you need to know to become an expert in Nipype
+                url: https://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html#acquisition-of-mri-data
+                icon: fab fa-github
                 description: ""
         sites:
           - name: MeNav
