@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:46:31.260Z
+# 由bookmark-processor.js生成于 2025-12-11T12:47:14.060Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -268,6 +268,10 @@ categories:
                   - AI
                   - AI论文
                 sites:
+                  - name: 因果推断：因果表征学习的CV落地 - 知乎
+                    url: https://zhuanlan.zhihu.com/p/400043237
+                    icon: fas fa-link
+                    description: ""
                   - name: Bohrium
                     url: https://bohrium.dp.tech/
                     icon: fas fa-link
@@ -1959,18 +1963,6 @@ categories:
           - name: MeNav
             url: https://394481125.github.io/menav/
             icon: fab fa-github
-            description: ""
-          - name: 重庆市属事业单位2024年第二季度考核招聘高层次和紧缺人才公告_重庆市人力资源和社会保障局
-            url: https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202404/t20240430_13175413.html
-            icon: fas fa-link
-            description: ""
-          - name: uv
-            url: https://docs.astral.sh/uv/
-            icon: fas fa-link
-            description: ""
-          - name: 因果推断：因果表征学习的CV落地 - 知乎
-            url: https://zhuanlan.zhihu.com/p/400043237
-            icon: fas fa-link
             description: ""
           - name: 重庆市公共就业服务网
             url: https://ggfw.rlsbj.cq.gov.cn/xcb/zgbtxt/px_front/kczyiframe
