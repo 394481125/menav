@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-08T09:56:18.316Z
+# 由bookmark-processor.js生成于 2025-12-11T12:46:09.416Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1954,10 +1954,6 @@ categories:
             description: ""
           - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
             url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
-            icon: fas fa-link
-            description: ""
-          - name: Prompt Library | DeepSeek API Docs
-            url: https://api-docs.deepseek.com/zh-cn/prompt-library/
             icon: fas fa-link
             description: ""
           - name: torch_geometric.nn.conv.GCNConv — pytorch_geometric documentation
