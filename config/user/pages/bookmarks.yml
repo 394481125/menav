@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:49:56.953Z
+# 由bookmark-processor.js生成于 2025-12-11T12:50:19.788Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -184,6 +184,10 @@ categories:
                   - AI
                   - AI代码
                 sites:
+                  - name: FSL-scripts/rsc at master · ahheckel/FSL-scripts
+                    url: https://github.com/ahheckel/FSL-scripts/tree/master/rsc
+                    icon: fab fa-github
+                    description: ""
                   - name: cosanlab/cosanlab_preproc at d4d9caaee72891542a8a6b95cf43b3b87e14fea3
                     url: https://github.com/cosanlab/cosanlab_preproc/tree/d4d9caaee72891542a8a6b95cf43b3b87e14fea3
                     icon: fab fa-github
@@ -1655,18 +1659,6 @@ categories:
                   - 新建文件夹
                 sites:
                   - name: github.com
-                    url: https://github.com/lovelyqian/CDFSOD-benchmark/blob/cda0c0969b2226ff8aeddbf027f3dadf4ff4a259/detectron2/modeling/meta_arch/devit.py#L1535
-                    icon: fab fa-github
-                    description: ""
-                  - name: paperswithcode.com
-                    url: https://paperswithcode.com/task/cross-domain-few-shot/latest
-                    icon: fas fa-link
-                    description: ""
-                  - name: openaccess.thecvf.com
-                    url: https://openaccess.thecvf.com//content/CVPR2024/papers/Su_Domain-Rectifying_Adapter_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2024_paper.pdf
-                    icon: fas fa-link
-                    description: ""
-                  - name: github.com
                     url: https://github.com/Matt-Su/DR-Adapter/tree/main
                     icon: fab fa-github
                     description: ""
@@ -1897,10 +1889,6 @@ categories:
                   - name: 图像重采样插值原理与其在MRI脑影像分辨率修改中的应用-CSDN博客
                     url: https://blog.csdn.net/Alexa_/article/details/132482946
                     icon: fas fa-link
-                    description: ""
-                  - name: FSL-scripts/rsc at master · ahheckel/FSL-scripts
-                    url: https://github.com/ahheckel/FSL-scripts/tree/master/rsc
-                    icon: fab fa-github
                     description: ""
           - name: 重庆官网
             icon: fas fa-folder
