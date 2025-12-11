@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:20:14.061Z
+# 由bookmark-processor.js生成于 2025-12-11T13:20:41.188Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -286,30 +286,6 @@ categories:
                     description: ""
                   - name: Bohrium
                     url: https://bohrium.dp.tech/
-                    icon: fas fa-link
-                    description: ""
-              - name: AI公式
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 收藏夹栏
-                  - AI
-                  - AI公式
-                sites:
-                  - name: Viewing - Snip Web
-                    url: https://snip.mathpix.com/394481125/snips/2668c553-6c52-43e4-990d-dd5f44269e71
-                    icon: fas fa-link
-                    description: ""
-              - name: AI流程图
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 收藏夹栏
-                  - AI
-                  - AI流程图
-                sites:
-                  - name: Graphviz图形展示（网页版）
-                    url: https://www.gptkong.com/tools/online_graphviz_render
                     icon: fas fa-link
                     description: ""
               - name: AI项目
@@ -1850,6 +1826,14 @@ categories:
                 description: ""
               - name: 下载文件 | iLovePDF
                 url: https://www.ilovepdf.com/zh-cn/download/vftvkwA5nx7rv0jqswdymn12ztAdgn3qhn7lAqn0rrlbt47t4hnmcx5dv80txs8bw1py44jv8692rw2Aj8ms78g6m4v4nrqfggj89bmrj7xdkzmgsz7bn2qj7nxvw4zz2h8sp3yApt8znmrvs0d1f45mwm7b28cd4jrwtjrA097r4cr3A23A66s0x9752fz36x41rhzmmf7my/90o
+                icon: fas fa-link
+                description: ""
+              - name: Viewing - Snip Web
+                url: https://snip.mathpix.com/394481125/snips/2668c553-6c52-43e4-990d-dd5f44269e71
+                icon: fas fa-link
+                description: ""
+              - name: Graphviz图形展示（网页版）
+                url: https://www.gptkong.com/tools/online_graphviz_render
                 icon: fas fa-link
                 description: ""
         sites:
