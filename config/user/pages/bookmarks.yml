@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T12:46:09.416Z
+# 由bookmark-processor.js生成于 2025-12-11T12:46:31.260Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -32,6 +32,10 @@ categories:
                   - AI
                   - AI绘画
                 sites:
+                  - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
+                    url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
+                    icon: fas fa-link
+                    description: ""
                   - name: 来自 Microsoft Designer 的图像创建器
                     url: https://www.bing.com/images/create?toWww=1&amp;redig=8A6F5F8F299943418597F96D64F95685
                     icon: fas fa-link
@@ -180,6 +184,10 @@ categories:
                   - AI
                   - AI代码
                 sites:
+                  - name: torch_geometric.nn.conv.GCNConv — pytorch_geometric documentation
+                    url: https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.GCNConv.html#torch_geometric.nn.conv.GCNConv
+                    icon: fas fa-link
+                    description: ""
                   - name: 最新的机器学习 | 带代码的论文
                     url: https://www.paperswithcode.com/
                     icon: fas fa-link
@@ -1951,14 +1959,6 @@ categories:
           - name: MeNav
             url: https://394481125.github.io/menav/
             icon: fab fa-github
-            description: ""
-          - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
-            url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
-            icon: fas fa-link
-            description: ""
-          - name: torch_geometric.nn.conv.GCNConv — pytorch_geometric documentation
-            url: https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.GCNConv.html#torch_geometric.nn.conv.GCNConv
-            icon: fas fa-link
             description: ""
           - name: 重庆市属事业单位2024年第二季度考核招聘高层次和紧缺人才公告_重庆市人力资源和社会保障局
             url: https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202404/t20240430_13175413.html
