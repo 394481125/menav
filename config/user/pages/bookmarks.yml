@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:09:30.724Z
+# 由bookmark-processor.js生成于 2025-12-11T13:14:31.665Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -34,10 +34,6 @@ categories:
                 sites:
                   - name: DeepSeek Janus Pro ComfyUI 工作流 | ComfyUI Wiki
                     url: https://comfyui-wiki.com/zh/tutorial/advanced/deepseek-janus-pro-workflow
-                    icon: fas fa-link
-                    description: ""
-                  - name: 来自 Microsoft Designer 的图像创建器
-                    url: https://www.bing.com/images/create?toWww=1&amp;redig=8A6F5F8F299943418597F96D64F95685
                     icon: fas fa-link
                     description: ""
                   - name: Luma Dream Machine
@@ -1111,10 +1107,6 @@ categories:
                     url: https://huggingface.co/datasets/fka/awesome-chatgpt-prompts
                     icon: fas fa-link
                     description: ""
-                  - name: MinerU
-                    url: https://mineru.org.cn/client?source=modelscope
-                    icon: fas fa-link
-                    description: ""
                   - name: ADNI静息态功能核磁共振成像数据预处理总流程_adni数据集的处理-CSDN博客
                     url: https://blog.csdn.net/m0_37852937/article/details/117251299
                     icon: fas fa-link
@@ -1129,10 +1121,6 @@ categories:
                 sites:
                   - name: Mamba魔改＆应用 - 飞书云文档
                     url: https://deepshare.feishu.cn/wiki/E3ggwr4TmiOTZ0kgdVocAVc9nHd
-                    icon: fas fa-link
-                    description: ""
-                  - name: MultCloud - Focus on transferring across clouds
-                    url: https://app.multcloud.com/mc_project/task_list
                     icon: fas fa-link
                     description: ""
                   - name: A scoping review on multimodal deep learning in biomedical images and texts - ScienceDirect
@@ -1866,6 +1854,14 @@ categories:
                 description: ""
               - name: iconfont-阿里巴巴矢量图标库
                 url: https://www.iconfont.cn/search/index?searchType=icon&amp;q=%E9%9B%AA%E8%8A%B1&amp;page=3
+                icon: fas fa-link
+                description: ""
+              - name: MultCloud - Focus on transferring across clouds
+                url: https://app.multcloud.com/mc_project/task_list
+                icon: fas fa-link
+                description: ""
+              - name: MinerU
+                url: https://mineru.org.cn/client?source=modelscope
                 icon: fas fa-link
                 description: ""
         sites:
