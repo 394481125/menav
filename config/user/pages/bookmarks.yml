@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-11T13:20:41.188Z
+# 由bookmark-processor.js生成于 2025-12-15T13:23:56.655Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1834,6 +1834,10 @@ categories:
                 description: ""
               - name: Graphviz图形展示（网页版）
                 url: https://www.gptkong.com/tools/online_graphviz_render
+                icon: fas fa-link
+                description: ""
+              - name: 自治区科技厅关于2026年第一批广西科技计划拟立项项目（2456项）的公示 - 通知公告 - 广西壮族自治区科学技术厅网站
+                url: http://kjt.gxzf.gov.cn/dtxx_59340/tzgg/t26280426.shtml
                 icon: fas fa-link
                 description: ""
         sites:
