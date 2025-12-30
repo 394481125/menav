@@ -6,10 +6,18 @@
   "homepage": "https://rbetree.github.io/menav",
   "scripts": {
     "generate": "node src/generator.js",
-    "dev": "node src/generator.js && serve dist -l 5173",
+    "dev": "npm run sync-projects && npm run sync-articles && node src/generator.js && serve dist -l 5173",
+    "dev:offline": "node src/generator.js && serve dist -l 5173",
     "clean": "node ./scripts/clean.js",
     "build": "npm run clean && npm run generate",
-    "import-bookmarks": "node src/bookmark-processor.js"
+    "sync-articles": "node ./scripts/sync-articles.js",
+    "sync-projects": "node ./scripts/sync-projects.js",
+    "import-bookmarks": "node src/bookmark-processor.js",
+    "test": "node --test test/*.js",
+    "lint": "node --check \"src/generator.js\" && node --check \"src/bookmark-processor.js\" && node --check \"src/script.js\"",
+    "format": "prettier --write \"src/**/*.js\" \"scripts/**/*.js\" \"test/**/*.js\" \".github/**/*.yml\" \"*.{md,json}\" \"config/**/*.md\" \"config/**/*.yml\"",
+    "format:check": "prettier --check \"src/**/*.js\" \"scripts/**/*.js\" \"test/**/*.js\" \".github/**/*.yml\" \"*.{md,json}\" \"config/**/*.md\" \"config/**/*.yml\"",
+    "check": "npm run lint && npm test && npm run build"
   },
   "keywords": [
     "navigation",
@@ -17,9 +25,9 @@
     "personal"
   ],
   "author": "Your Name",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "dependencies": {
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "handlebars": "^4.7.8",
     "ansi-regex": "^6.0.1",
     "ansi-styles": "^6.2.1",
@@ -27,9 +35,11 @@
     "has-flag": "^5.0.1",
     "color-convert": "^2.0.1",
     "color-name": "^2.0.0",
-    "mime-db": "^1.52.0"
+    "mime-db": "^1.52.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
-    "serve": "^14.2.1"
+    "prettier": "^3.4.2",
+    "serve": "^14.2.5"
   }
 }
