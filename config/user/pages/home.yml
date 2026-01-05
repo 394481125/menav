@@ -39,6 +39,10 @@ categories:
         url: https://tablegenpro.qq394481125.workers.dev/
         icon: fab fa-github
         description: latex表格在线生成
+      - name: OmniDraft
+        url: https://omnidraft.qq394481125.workers.dev/
+        icon: fab fa-github
+        description: Markdown转word文档
       - name: 今日热榜
         url: https://hot.vvhan.com/
         icon: fab fa-github
