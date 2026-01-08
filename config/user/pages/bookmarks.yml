@@ -1,5 +1,4 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-22T11:36:22.936Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1838,6 +1837,10 @@ categories:
                 description: ""
               - name: 秒哒-无代码应用搭建平台，一句话做应用
                 url: https://www.miaoda.cn/
+                icon: fas fa-link
+                description: ""
+              - name: 广州创赛生物医用材料有限公司-纳米材料_水凝胶_细胞实验_病理实验_微生物实验_医工转化
+                url: http://www.chuangseed.com/page.html?id=65
                 icon: fas fa-link
                 description: ""
         sites:
