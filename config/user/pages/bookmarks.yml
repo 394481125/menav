@@ -1839,10 +1839,6 @@ categories:
                 url: https://www.miaoda.cn/
                 icon: fas fa-link
                 description: ""
-              - name: 广州创赛生物医用材料有限公司-纳米材料_水凝胶_细胞实验_病理实验_微生物实验_医工转化
-                url: http://www.chuangseed.com/page.html?id=65
-                icon: fas fa-link
-                description: ""
         sites:
           - name: MeNav
             url: https://394481125.github.io/menav/
@@ -3153,5 +3149,13 @@ categories:
             description: ""
           - name: Connected Papers | Find and explore academic papers
             url: https://www.connectedpapers.com/
+            icon: fas fa-link
+            description: ""
+          - name: 广州创赛生物医用材料有限公司-纳米材料_水凝胶_细胞实验_病理实验_微生物实验_医工转化
+            url: http://www.chuangseed.com/page.html?id=65
+            icon: fas fa-link
+            description: ""
+          - name: 便宜好用的翻墙机场推荐 | 便宜机场
+            url: https://www.pyjichang.com/#%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%B4%E6%98%8E
             icon: fas fa-link
             description: ""
