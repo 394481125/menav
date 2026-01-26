@@ -287,6 +287,14 @@ categories:
                     url: https://bohrium.dp.tech/
                     icon: fas fa-link
                     description: ""
+                  - name: BEXI.ai - 人性化 AI 文本 | 免费自然语言 AI 人性化工具
+                    url: https://bexi.ai/zh-CN
+                    icon: fas fa-link
+                    description: ""
+                  - name: AI文本人性化器 |绕过AI检测，让内容更像人
+                    url: https://aitexthumanize.co/
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
@@ -3157,9 +3165,5 @@ categories:
             description: ""
           - name: 便宜好用的翻墙机场推荐 | 便宜机场
             url: https://www.pyjichang.com/#%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%E8%AF%B4%E6%98%8E
-            icon: fas fa-link
-            description: ""
-          - name: BEXI.ai - 人性化 AI 文本 | 免费自然语言 AI 人性化工具
-            url: https://bexi.ai/zh-CN
             icon: fas fa-link
             description: ""
