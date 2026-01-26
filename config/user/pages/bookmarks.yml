@@ -303,6 +303,10 @@ categories:
                     url: https://humanize.im/zh-CN
                     icon: fas fa-link
                     description: ""
+                  - name: BypassGPT.co：人性化AI文本，绕过GPTZero检测工具
+                    url: https://bypassgpt.co/zh-CN
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
