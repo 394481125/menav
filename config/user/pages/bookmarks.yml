@@ -299,6 +299,10 @@ categories:
                     url: https://github.com/ruanyf/weekly/issues
                     icon: fab fa-github
                     description: ""
+                  - name: Humanize.im：免费在线让AI文本更自然
+                    url: https://humanize.im/zh-CN
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
