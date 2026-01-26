@@ -295,6 +295,10 @@ categories:
                     url: https://aitexthumanize.co/
                     icon: fas fa-link
                     description: ""
+                  - name: Issues · ruanyf/weekly
+                    url: https://github.com/ruanyf/weekly/issues
+                    icon: fab fa-github
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
