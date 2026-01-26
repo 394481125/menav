@@ -307,6 +307,10 @@ categories:
                     url: https://bypassgpt.co/zh-CN
                     icon: fas fa-link
                     description: ""
+                  - name: AI重写器 | AI工具网
+                    url: https://www.ai138.com/tools/ai-rewriter
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
