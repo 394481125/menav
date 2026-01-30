@@ -311,6 +311,10 @@ categories:
                     url: https://www.ai138.com/tools/ai-rewriter
                     icon: fas fa-link
                     description: ""
+                  - name: 免费AI检测工具，检测ChatGPT、Claude、Gemini等生成的AI内容
+                    url: https://bexi.ai/zh-CN/ai-detector
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
