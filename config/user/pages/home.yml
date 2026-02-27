@@ -1125,3 +1125,24 @@ categories:
         url: https://mermaid.live/
         icon: fas fa-project-diagram
         description: Markdown流程图在线编辑器
+
+
+  - name: AI率检测
+    icon: fab fa-ai
+    sites:
+      - name: bexi
+        url: https://bexi.ai/zh-CN
+        icon: fab fa-bexi
+        description: AI率检测
+      - name: humanize
+        url: https://humanize.im/zh-CN
+        icon: fab fa-humanize
+        description: AI率检测
+      - name: aitexthumanize
+        url: https://aitexthumanize.co/
+        icon: fab fa-aitexthumanize
+        description: AI率检测
+      - name: bypassgpt
+        url: https://bypassgpt.co/zh-CN
+        icon: fab fa-bypassgpt
+        description: AI率检测
