@@ -11,6 +11,44 @@ categories:
   - name: 置顶推荐
     icon: fas fa-thumbtack
     sites:
+      - name: 千问
+        url: https://www.qianwen.com/
+        icon: fab fa-qianwen
+        description: 阿里千问
+      - name: Kimi
+        url: https://www.kimi.com/
+        icon: fab fa-kimi
+        description: Kimi
+      - name: 豆包
+        url: https://www.doubao.com/
+        icon: fab fa-doubao
+        description: 豆包
+      - name: AutoGLM
+        url: https://autoglm.zhipuai.cn/
+        icon: fab fa-autoglm
+        description: AutoGLM
+      - name: MiniMax
+        url: https://agent.minimaxi.com/
+        icon: fab fa-MiniMax
+        description: MiniMax
+      - name: DeepSeek
+        url: https://chat.deepseek.com/
+        icon: fab fa-deepseek
+        description: DeepSeek
+      - name: 元宝
+        url: https://yuanbao.tencent.com/
+        icon: fab fa-yuanbao
+        description: 元宝
+      - name: Genspark
+        url: https://www.genspark.ai/
+        icon: fab fa-genspark
+        description: Genspark
+        
+
+
+  - name: 我的工具
+    icon: fas fa-thumbtack
+    sites:
       - name: Libretv
         url: https://libretv-dwb.pages.dev/
         icon: fab fa-github
