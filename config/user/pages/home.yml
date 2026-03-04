@@ -43,6 +43,24 @@ categories:
         url: https://www.genspark.ai/
         icon: fab fa-genspark
         description: Genspark
+      - name: Claude
+        url: https://claude.ai/
+        icon: fab fa-claude
+        description: Claude
+      - name: Gemini
+        url: http://gemini.google.com/
+        icon: fab fa-gemini
+        description: Gemini
+      - name: Chatgpt
+        url: https://chatgpt.com/
+        icon: fab fa-chatgpt
+        description: Chatgpt
+      - name: Aistudio
+        url: https://aistudio.google.com/
+        icon: fab fa-google
+        description: Aistudio
+
+        
         
 
 
