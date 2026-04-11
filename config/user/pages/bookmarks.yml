@@ -1631,10 +1631,6 @@ categories:
                 url: https://blog.csdn.net/qq_38736504/article/details/135722798
                 icon: fas fa-link
                 description: ""
-              - name: 打破壁垒：基于选择性不确定性的主动学习用于医学图像分割 |IEEE会议出版物 |IEEE Xplore的
-                url: https://ieeexplore.ieee.org/abstract/document/10446026
-                icon: fas fa-link
-                description: ""
           - name: UKB
             icon: fas fa-folder
             path:
