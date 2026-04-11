@@ -99,6 +99,10 @@ categories:
         url: https://omnidraft.qq394481125.workers.dev/
         icon: fab fa-github
         description: Markdown转word文档
+      - name: TexCount-Online
+        url: https://texcount-online.qq394481125.workers.dev/
+        icon: fab fa-github
+        description: Latex单词计数统计
       - name: 今日热榜
         url: https://hot.vvhan.com/
         icon: fab fa-github
