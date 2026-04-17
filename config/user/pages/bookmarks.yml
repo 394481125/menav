@@ -3903,3 +3903,7 @@ categories:
             url: https://www.sciencedirect.com/science/article/pii/S2590123025012733
             icon: fas fa-link
             description: ""
+          - name: MNC-Net：基于节点聚类的多任务图结构学习，用于早期帕金森病诊断 - ScienceDirect
+            url: https://www.sciencedirect.com/science/article/pii/S0010482522010162
+            icon: fas fa-link
+            description: ""
