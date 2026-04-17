@@ -3899,3 +3899,7 @@ categories:
             url: https://www.sciencedirect.com/science/article/pii/S1361841522003097
             icon: fas fa-link
             description: ""
+          - name: "Connectome graph attention network (CGAT): A multimodal approach for enhanced classification of Alzheimer&#039;s disease - ScienceDirect"
+            url: https://www.sciencedirect.com/science/article/pii/S2590123025012733
+            icon: fas fa-link
+            description: ""
