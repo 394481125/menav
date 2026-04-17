@@ -3895,3 +3895,7 @@ categories:
             url: http://119.91.27.68:8090/settings/panel
             icon: fas fa-link
             description: ""
+          - name: 一种利用结构性MRI扫描进行帕金森病分类的新技术 |多媒体工具与应用 |施普林格自然链接
+            url: https://link.springer.com/article/10.1007/s11042-023-15302-3
+            icon: fas fa-link
+            description: ""
