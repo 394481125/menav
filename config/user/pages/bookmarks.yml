@@ -3887,3 +3887,7 @@ categories:
             url: https://github.com/SereneLian/AdaMedGraph
             icon: fab fa-github
             description: ""
+          - name: PPMI500team/ppmi_mri_scidata：PPMI MRI的科学数据描述符
+            url: https://github.com/ppmi500team/ppmi_mri_scidata
+            icon: fab fa-github
+            description: ""
