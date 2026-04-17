@@ -3891,3 +3891,7 @@ categories:
             url: https://github.com/ppmi500team/ppmi_mri_scidata
             icon: fab fa-github
             description: ""
+          - name: 1Panel
+            url: http://119.91.27.68:8090/settings/panel
+            icon: fas fa-link
+            description: ""
