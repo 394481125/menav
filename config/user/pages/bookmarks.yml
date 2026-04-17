@@ -1631,6 +1631,10 @@ categories:
                 url: https://blog.csdn.net/qq_38736504/article/details/135722798
                 icon: fas fa-link
                 description: ""
+              - name: 打破壁垒：基于选择性不确定性的主动学习用于医学图像分割 |IEEE会议出版物 |IEEE Xplore的
+                url: https://ieeexplore.ieee.org/abstract/document/10446026
+                icon: fas fa-link
+                description: ""
           - name: UKB
             icon: fas fa-folder
             path:
@@ -3854,4 +3858,32 @@ categories:
           - name: (66 封私信 / 82 条消息) OpenWrt安装Rustdesk软路由，通过docker安装，配合ipv4|ipv6公网ip使用 - 知乎
             url: https://zhuanlan.zhihu.com/p/7112824570
             icon: fas fa-link
+            description: ""
+          - name: 统一检索
+            url: https://lib.cqu.edu.cn/articlesearch/web_searchingDetail?id=2031637874095
+            icon: fas fa-link
+            description: ""
+          - name: 统一检索
+            url: https://lib.cqu.edu.cn/articlesearch/web_searchingDetail?id=2031636277317
+            icon: fas fa-link
+            description: ""
+          - name: 统一检索
+            url: https://lib.cqu.edu.cn/articlesearch/web_searchingDetail?id=2031642761348
+            icon: fas fa-link
+            description: ""
+          - name: 统一检索
+            url: https://lib.cqu.edu.cn/articlesearch/web_searchingDetail?id=2031608317300
+            icon: fas fa-link
+            description: ""
+          - name: "Frontiers | Graph neural networks in Alzheimer&#039;s disease diagnosis: a review of unimodal and multimodal advances"
+            url: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2025.1623141/full
+            icon: fas fa-link
+            description: ""
+          - name: HennyJie/BrainGB：正式被《IEEE医学影像汇刊》（TMI，IF： 11.037）——医学影像中几何深度学习特刊。
+            url: https://github.com/HennyJie/BrainGB
+            icon: fab fa-github
+            description: ""
+          - name: SereneLian/AdaMedGraph：帕金森病个性化进展建模与预测的官方代码，采用新颖的多模态图谱方法
+            url: https://github.com/SereneLian/AdaMedGraph
+            icon: fab fa-github
             description: ""
