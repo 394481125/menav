@@ -3915,3 +3915,7 @@ categories:
             url: https://tugaigai.com/online_ps/
             icon: fas fa-link
             description: ""
+          - name: 图片盲水印在线工具
+            url: https://tools.qwerto.cc/blind_watermark/
+            icon: fas fa-link
+            description: ""
