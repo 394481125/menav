@@ -3919,3 +3919,7 @@ categories:
             url: https://tools.qwerto.cc/blind_watermark/
             icon: fas fa-link
             description: ""
+          - name: iStoreOS 文件共享教程 如何格式化磁盘并设置共享目录 | Theo Docs
+            url: https://doc.theojs.cn/esxi/openwrt/istoreos-file-sharing-steps
+            icon: fas fa-link
+            description: ""
