@@ -3923,3 +3923,7 @@ categories:
             url: https://doc.theojs.cn/esxi/openwrt/istoreos-file-sharing-steps
             icon: fas fa-link
             description: ""
+          - name: 图片压缩工具 - 在线图片压缩器 | 在线工具集
+            url: https://tooltool.net/zh/image-compress
+            icon: fas fa-link
+            description: ""
