@@ -335,6 +335,14 @@ categories:
                     url: https://artificialanalysis.ai/
                     icon: fas fa-link
                     description: ""
+                  - name: "XY-boy/TTST: [IEEE TIP 2024] TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution"
+                    url: https://github.com/XY-boy/TTST
+                    icon: fab fa-github
+                    description: ""
+                  - name: Nova AI
+                    url: https://once.novai.su/dashboard/overview
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
@@ -3930,8 +3938,4 @@ categories:
           - name: 关于申报2025年新重庆青年创新人才项目的通知-科研处
             url: https://skc2014.ctbu.edu.cn/info/1002/7836.htm
             icon: fas fa-link
-            description: ""
-          - name: "XY-boy/TTST: [IEEE TIP 2024] TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution"
-            url: https://github.com/XY-boy/TTST
-            icon: fab fa-github
             description: ""
