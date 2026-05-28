@@ -347,6 +347,10 @@ categories:
                     url: https://platform.deepseek.com/usage
                     icon: fas fa-link
                     description: ""
+                  - name: 手写体生成器 | 在线生成个性化手写体文字
+                    url: https://handwrite.dogliu.top/
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
