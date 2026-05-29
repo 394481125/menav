@@ -351,6 +351,10 @@ categories:
                     url: https://handwrite.dogliu.top/
                     icon: fas fa-link
                     description: ""
+                  - name: THINK-AI
+                    url: https://thinkai.tv/
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
