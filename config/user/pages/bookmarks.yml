@@ -355,6 +355,10 @@ categories:
                     url: https://thinkai.tv/
                     icon: fas fa-link
                     description: ""
+                  - name: Nova AI
+                    url: https://us.novaiapi.com/dashboard/overview
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
