@@ -359,6 +359,10 @@ categories:
                     url: https://us.novaiapi.com/dashboard/overview
                     icon: fas fa-link
                     description: ""
+                  - name: (70 封私信 / 82 条消息) 把 OpenAI Codex 接到飞书上用，只需 5 分钟 - 知乎
+                    url: https://zhuanlan.zhihu.com/p/2017203753460179141
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
