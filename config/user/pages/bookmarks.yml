@@ -363,6 +363,10 @@ categories:
                     url: https://zhuanlan.zhihu.com/p/2017203753460179141
                     icon: fas fa-link
                     description: ""
+                  - name: PR-D-26-02902_reviewer.pdf
+                    url: file:///C:/Users/%E7%94%A8%E6%88%B7/Downloads/Documents/PR-D-26-02902_reviewer.pdf
+                    icon: fas fa-link
+                    description: ""
               - name: AI项目
                 icon: fas fa-folder
                 path:
