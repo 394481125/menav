@@ -59,6 +59,13 @@ categories:
         url: https://aistudio.google.com/
         icon: fab fa-google
         description: Aistudio
+      - name: 今日热榜
+        url: https://hot.vvhan.com/
+        icon: fab fa-github
+      - name: Mathpix
+        url: https://mathpix.com/
+        icon: fas fa-square-root-alt
+        description: 公式识别工具
 
         
         
@@ -107,13 +114,19 @@ categories:
         url: https://localref.qq394481125.workers.dev/
         icon: fab fa-github
         description: 批量参考文献格式自定义修改
-      - name: 今日热榜
-        url: https://hot.vvhan.com/
+      - name: InkCraft
+        url: https://inkcraft.pages.dev/
         icon: fab fa-github
-      - name: Mathpix
-        url: https://mathpix.com/
-        icon: fas fa-square-root-alt
-        description: 公式识别工具
+        description: 生成手写字体编辑
+      - name: OfficeUnlocker
+        url: https://officeunlocker.qq394481125.workers.dev/
+        icon: fab fa-github
+        description: 解锁Office文档
+      - name: BrainviewerX
+        url: https://brainviewerx.qq394481125.workers.dev/
+        icon: fab fa-github
+        description: 脑神经影像在线浏览神器
+      
 
   - name: 中文文献
     icon: fas fa-book-reader
