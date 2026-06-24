@@ -126,6 +126,14 @@ categories:
         url: https://brainviewerx.qq394481125.workers.dev/
         icon: fab fa-github
         description: 脑神经影像在线浏览神器
+      - name: ClinEval
+        url: https://clineval.qq394481125.workers.dev/
+        icon: fab fa-github
+        description: 实验结果分析与可视化神器
+
+
+
+        
       
 
   - name: 中文文献
