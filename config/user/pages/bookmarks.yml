@@ -3975,3 +3975,7 @@ categories:
             url: https://www.os-os.com/
             icon: fas fa-link
             description: ""
+          - name: Codabench
+            url: https://www.codabench.org/
+            icon: fas fa-link
+            description: ""
